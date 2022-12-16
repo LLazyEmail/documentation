@@ -34,3 +34,9 @@ for it i created a [script](https://github.com/LLazyEmail/nomoretogo_email_templ
 ![image](https://user-images.githubusercontent.com/1469198/207996499-80ece9c1-84e7-4bb3-bbf6-c08306b11a4c.png)
 
 
+
+### 4. organize validation process correctly and save some space in our methods + line tracing
+
+![image](https://user-images.githubusercontent.com/1469198/208203452-94a532b3-d3ee-4b19-950b-17c2978cb7c5.png)
+
+
