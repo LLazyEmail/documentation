@@ -40,3 +40,18 @@ for it i created a [script](https://github.com/LLazyEmail/nomoretogo_email_templ
 ![image](https://user-images.githubusercontent.com/1469198/208203452-94a532b3-d3ee-4b19-950b-17c2978cb7c5.png)
 
 
+Right now i'm testing [OW](https://github.com/sindresorhus/ow)
+
+something like
+```
+const topPanelViewInBrows = (link) => {
+
+  // const error = new Errors('topPanelViewInBrows');
+
+  // if (link == '') {
+  //   error.add('No link');
+  // }
+
+  ow(link, ow.string);
+ ```
+
