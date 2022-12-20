@@ -9,3 +9,8 @@ Repository: https://github.com/LLazyEmail/nomoretogo_email_template
 - https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/source-wrapped-recipes.md
 - https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/source-front-matter.md
 
+
+Errors & Params assertion
+
+
+- checking create-html-element, ow for simplifying logic of our code
