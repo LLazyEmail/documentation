@@ -60,7 +60,9 @@ typography separate sounds funny to try.
 
 
 Source.md
-- 
+- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md
+- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md
+- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md
 
 
 
