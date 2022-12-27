@@ -9,9 +9,9 @@ Repository: https://github.com/LLazyEmail/nomoretogo_email_template
 
 
 ### Examples of source.md files
-- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/source.md
-- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/source-wrapped-recipes.md
-- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/source-front-matter.md
+- [Current File](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md)
+- [Second Version](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md)
+- [Front Matter version, simplified](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md)
 
 
 Errors & Params assertion
