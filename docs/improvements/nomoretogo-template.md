@@ -58,3 +58,21 @@ typography separate sounds funny to try.
 
 из documentation потом можно делать статейки
 
+
+Source.md
+- 
+
+
+
+# Title
+Content
+Recipes
+Button
+Instructions
+
+при обновлении source.md - перенести рабочий пример в проект генератора
+
+При следующем темплейте, начинать нужно с source.md чтобі понятны были движущие части
+
+Добавление front-matter должно упростить работу нашего парсинга и убрать работу со сложными кастомными тегами.
+
