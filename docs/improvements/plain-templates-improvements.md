@@ -55,3 +55,22 @@ const topPanelViewInBrows = (link) => {
   ow(link, ow.string);
  ```
 
+
+---
+
+
+try later and see if it simplify the work with "literals"
+
+https://www.npmjs.com/package/htm
+
+
+https://preactjs.com/guide/v10/getting-started/#alternatives-to-jsx
+
+
+https://gist.github.com/developit/699c8d8f180a1e4eed58167f9c6711be
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals#tagged_templates
+
+
+https://github.com/motss/lit-ntml
