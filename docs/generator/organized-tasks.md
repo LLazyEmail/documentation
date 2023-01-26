@@ -205,3 +205,6 @@ Sub-task: https://github.com/LLazyEmail/markdown-to-email/issues/1384
 
 
 #### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/
+
+delete or remove stuff like this one in our main branch
+https://github.com/LLazyEmail/markdown-to-email/blob/main/package/__ToUseLater/relieve.js
