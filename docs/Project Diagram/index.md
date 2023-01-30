@@ -1,6 +1,6 @@
 https://github.com/LLazyEmail/documentation/blob/549fa173c4b26da6d243c28503312c9d915c7f5f/docs/generator/test/LLazyEmail%20Documentation.md
 
-
+https://llazyemail.github.io/documentation/docs/generator/test/Documentation
 
 from our conversation with Sergey
 
