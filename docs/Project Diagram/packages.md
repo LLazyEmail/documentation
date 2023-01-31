@@ -69,6 +69,10 @@ _replace-wrapper_ before were keeping a lot of different files/methods, but afte
 
 _objectBuilder_ creating an object from different constants for a better access of it.
 
+Inside **state** folder we creating a **state object** and connect tracking of errors and warnings.
+
+error-handle stores method for output of errors in a way, that fine for us.
+
 
 ## packages at MTE
 - [callbacks](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacks)
