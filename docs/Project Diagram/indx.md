@@ -1,6 +1,3 @@
-
-
-
 ---
 id: RepiIndex2
 title: Repositories Index
@@ -16,17 +13,6 @@ Email Generator Template Universe
 
 [Markdown-to-email](https://github.com/LLazyEmail/markdown-to-email)
 
-Modules for Markdown-to-Email project
-
-```
-"atherdon-callbacks": "^1.10.0",
-"atherdon-newsletter-html-replacer": "^0.4.0",
-"atherdon-newsletter-js-layouts": "^1.5.1",
-"atherdon-newsletter-react": "^1.0.11",
-"atherdon-newsletter-react-replacer": "^0.4.0",
-"atherdon-old-newsletter-js-outertemplate": "^2.4.0",
-"markup-generator": "^0.4.0",
-```
 
 ### Generator Module
 
@@ -36,11 +22,11 @@ Modules for Markdown-to-Email project
 
 [Markdown-regex](https://github.com/LLazyEmail/markdown-regex)
 
-### Plain JS Template aka `atherdon-old-newsletter-js-outertemplate`
+### HN Plain JS Template aka `atherdon-old-newsletter-js-outertemplate`
 
 [Trying-lit](https://github.com/LLazyEmail/_trying-lit)
 
-### `React DOM` Template 
+### `HN React DOM` Template 
 
 [React-plain-template-example](https://github.com/LLazyEmail/react-plain-template-example)
 
@@ -57,6 +43,10 @@ Modules for Markdown-to-Email project
 - [Replacer](https://github.com/LLazyEmail/replacer)
 
 - [Pixel-email-cli](https://github.com/LLazyEmail/pixel-email-cli)
+
+
+---
+
 
 ### React One Template
 
@@ -75,12 +65,6 @@ Modules for Markdown-to-Email project
 - [Email-template-react](https://github.com/LLazyEmail/email-template-react)
 - [React-email-letter-components](https://github.com/LLazyEmail/react-email-letter-components)
 
-### Cool projects to see
-
-- [Bojler](https://github.com/Slicejack/bojler)
-- [Maizzle](https://github.com/maizzle/maizzle)
-- [Pechkin](https://github.com/sglazov/pechkin)
-- [11ty-email-generator](https://github.com/5t3ph/11ty-email-generator/blob/main/src/_data/meta.js)
 
 ### Arthur Tkachenko articles
 
@@ -99,24 +83,7 @@ Modules for Markdown-to-Email project
 * [Businesses Have Messy Emails: The Relationship between Security and Sales](https://hackernoon.com/businesses-have-messy-emails-the-relationship-between-security-and-sales)
 
 [Awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing)
----
 
-- [Build your email templates with React](https://medium.com/ovrsea/build-your-email-templates-with-react-ea530ba6b010)
-- [Creating email templates with React components](https://assertible.com/blog/creating-email-templates-with-react-components)
-- [HTML Email Basics](https://templates.mailchimp.com/getting-started/html-email-basics/)
-- [How to build emails with React](https://building.lang.ai/how-to-build-emails-with-react-fcf941b125d1)
-- [Build a Reusable Design System With React](https://code.tutsplus.com/tutorials/build-a-reusable-design-system-with-react--cms-29954)
-- [Create elegant HTML email templates using React](https://bestofreactjs.com/repo/chromakode-react-html-email-react-renderers)
-- [React-email-editor](https://github.com/unlayer/react-email-editor)
-
-
----
-
-- [Designing Error Messages and a Logging Strategy in Node.js](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
-- [Npmlog](https://www.npmjs.com/package/npmlog)
-- [How to use levels function in Logger](https://www.tabnine.com/code/javascript/functions/npmlog/Logger/levels)
-- [Comparing Node.js logging tools](https://blog.logrocket.com/comparing-node-js-logging-tools/)
-- [How to handle log events with the npmlog library?](https://stackoverflow.com/questions/72506435/how-to-handle-log-events-with-the-npmlog-library)
 
 
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
