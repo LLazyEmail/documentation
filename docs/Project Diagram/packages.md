@@ -56,6 +56,20 @@ https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 
 
 
+both versions of _write_ are used in our work. one version is used in MTE. second version from a separate repository is used in my Jest tests in our template (3 times).
+
+_callbacks_ connects RegEx with strings that must be wrapper in HTML
+
+
+replace-markdown keeps 2 versions for our templates. Main files is replace-md.js. Also we have a file debgging.js, that can be used for disabling work of some specific callbacks in order to debug other callbacks.
+
+
+replace-wrapper before were keeping a lot of different files/methods, but after a clean up, we have onle commonReplace method. and a few main methods for replacing HTML strings.
+
+
+
+
+
 ## packages at MTE
 - [callbacks](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacks)
 наши коллбеки для plain js 
