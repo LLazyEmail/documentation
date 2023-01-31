@@ -61,13 +61,13 @@ both versions of _write_ are used in our work. one version is used in MTE. secon
 _callbacks_ connects RegEx with strings that must be wrapper in HTML
 
 
-replace-markdown keeps 2 versions for our templates. Main files is replace-md.js. Also we have a file debgging.js, that can be used for disabling work of some specific callbacks in order to debug other callbacks.
+_replace-markdown_ keeps 2 versions for our templates. Main files is replace-md.js. Also we have a file debgging.js, that can be used for disabling work of some specific callbacks in order to debug other callbacks.
 
 
-replace-wrapper before were keeping a lot of different files/methods, but after a clean up, we have onle commonReplace method. and a few main methods for replacing HTML strings.
+_replace-wrapper_ before were keeping a lot of different files/methods, but after a clean up, we have onle commonReplace method. and a few main methods for replacing HTML strings.
 
 
-
+_objectBuilder_ creating an object from different constants for a better access of it.
 
 
 ## packages at MTE
