@@ -43,3 +43,18 @@ https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 - [objectBuilder.js](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/objectBuilder.js)
 
 - [parse.js](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/parse.js)
+
+
+
+## packages at MTE
+- [callbacks](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacks)
+
+- [callbacksReact](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacksReact)
+
+- [constants](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/constants)
+
+- [domain](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain)
+
+- [helper](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/helper)
+
+- [templates](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/templates)
