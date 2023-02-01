@@ -1,4 +1,20 @@
-Описание модуля:
+---
+id: project-diagram
+title: Markdown to Email Project Diagram
+sidebar_label: Project Diagram
+---
+
+[Purpose]()
+
+[Scope]()
+
+[Work Practice](https://github.com/hillaryfraley/jobbriefings#work-practice)
+
+[Daily Briefing](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
+
+
+Module description:
+
 
 - активній или outdated, replaced at MTE/domain folder
 MTE/domain list packages
@@ -16,9 +32,17 @@ works mostly as subdomains inside main project
 https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 
 
-# 3 packages at MTE\domain
+# Packages inside MTE/domain folder
 
-
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 
@@ -58,23 +82,32 @@ https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 
 both versions of _write_ are used in our work. one version is used in MTE. second version from a separate repository is used in my Jest tests in our template (3 times).
 
-_callbacks_ connects RegEx with strings that must be wrapper in HTML
+- _callbacks_ connects RegEx with strings that must be wrapper in HTML
 
 
-_replace-markdown_ keeps 2 versions for our templates. Main files is replace-md.js. Also we have a file debgging.js, that can be used for disabling work of some specific callbacks in order to debug other callbacks.
+- _replace-markdown_ keeps 2 versions for our templates. Main files is replace-md.js. Also we have a file debgging.js, that can be used for disabling work of some specific callbacks in order to debug other callbacks.
 
 
-_replace-wrapper_ before were keeping a lot of different files/methods, but after a clean up, we have onle commonReplace method. and a few main methods for replacing HTML strings.
+- _replace-wrapper_ before were keeping a lot of different files/methods, but after a clean up, we have onle commonReplace method. and a few main methods for replacing HTML strings.
 
 
-_objectBuilder_ creating an object from different constants for a better access of it.
+- _objectBuilder_ creating an object from different constants for a better access of it.
 
 Inside **state** folder we creating a **state object** and connect tracking of errors and warnings.
 
 error-handle stores method for output of errors in a way, that fine for us.
 
 
-## packages at MTE
+## MTE packages
+
+
+- [callbacks]()
+- [callbacksReact]()
+- [constants]()
+- [domain]()
+- [helper]()
+- [templates]()
+
 - [callbacks](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacks)
 наши коллбеки для plain js 
 
