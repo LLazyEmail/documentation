@@ -13,6 +13,10 @@ sidebar_label: Project Diagram
 [Daily Briefing](https://github.com/hillaryfraley/jobbriefings#daily-briefing)
 
 
+
+---
+
+
 Module description:
 
 
@@ -34,19 +38,17 @@ https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 
 # Packages inside MTE/domain folder
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Deliver]()
+- [error-handle]()
+- [helper-methods]()
+- [regular-expressions]()
+- [replace-markdown]()
+- [replace-wrapper3.0]()
+- [state]()
+- [write]()
+- [objectBuilder.js]()
+- [parse.js]()
 
-
-
-- [_develop](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/_develop)
 
 
 - [deliver](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/deliver)
@@ -54,6 +56,10 @@ https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 
 - [error-handle](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/error-handle)
 модуль который должен помочь нам с обработкой ошибок
+
+
+error-handle stores method for output of errors in a way, that fine for us.
+
 
 - [helper-methods](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/helper-methods)
 общие методы, которые вызываются в разных местах\под-модулях
@@ -64,38 +70,43 @@ https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 - [replace-markdown](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/replace-markdown)
 функционал для раьботы реплейсера
 
+
+- _replace-markdown_ keeps 2 versions for our templates. Main files is replace-md.js. Also we have a file debgging.js, that can be used for disabling work of some specific callbacks in order to debug other callbacks.
+
+
+
 - [replace-wrapper3.0](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/replace-wrapper3.0)
 функционал для работы реплейсера
 
+
+_replace-wrapper_ before were keeping a lot of different files/methods, but after a clean up, we have onle commonReplace method. and a few main methods for replacing HTML strings.
+
+
 - [state](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/state)
-стейт это наш аналог стейта в реакте. логика его как синглтона, который является хранилищем всех данных которые нам нужны для того, чтобы генератор отработал один раз.
+стейт это наш аналог стейта в реакте. 
+логика его как синглтона, который является хранилищем всех данных которые нам нужны для того, чтобы генератор отработал один раз.
+
+
+Inside **state** folder we creating a **state object** and connect tracking of errors and warnings.
+
+
 
 - [write](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/write)
 
 
+Both versions of _write_ are used in our work. one version is used in MTE. 
+Second version from a separate repository is used in my Jest tests in our template (3 times).
+
+
+
 - [objectBuilder.js](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/objectBuilder.js)
+
+_objectBuilder_ creating an object from different constants for a better access of it.
 
 
 - [parse.js](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/parse.js)
 
 
-
-both versions of _write_ are used in our work. one version is used in MTE. second version from a separate repository is used in my Jest tests in our template (3 times).
-
-- _callbacks_ connects RegEx with strings that must be wrapper in HTML
-
-
-- _replace-markdown_ keeps 2 versions for our templates. Main files is replace-md.js. Also we have a file debgging.js, that can be used for disabling work of some specific callbacks in order to debug other callbacks.
-
-
-- _replace-wrapper_ before were keeping a lot of different files/methods, but after a clean up, we have onle commonReplace method. and a few main methods for replacing HTML strings.
-
-
-- _objectBuilder_ creating an object from different constants for a better access of it.
-
-Inside **state** folder we creating a **state object** and connect tracking of errors and warnings.
-
-error-handle stores method for output of errors in a way, that fine for us.
 
 
 ## MTE packages
@@ -110,6 +121,11 @@ error-handle stores method for output of errors in a way, that fine for us.
 
 - [callbacks](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacks)
 наши коллбеки для plain js 
+
+
+- _callbacks_ connects RegEx with strings that must be wrapper in HTML
+
+
 
 - [callbacksReact](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacksReact)
 наши коллбеки для react
