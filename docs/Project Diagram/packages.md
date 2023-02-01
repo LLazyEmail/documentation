@@ -1,6 +1,6 @@
 ---
 id: project-diagram-packages
-title: Markdown to Email Project Diagram
+title: Markdown-to-Email-Project-Diagram
 sidebar_label: Project Diagram
 ---
 
