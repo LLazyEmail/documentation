@@ -20,13 +20,15 @@ sidebar_label: Project Diagram
 Module description:
 
 
-- активній или outdated, replaced at MTE/domain folder
-MTE/domain list packages
-works mostly as subdomains inside main project
+- name/link
+- description
+- active, outdated, replaced at MTE/domain folder
 
 
 
 - list of repositories and modules
+
+
 
 - add an explainer for each module
 
@@ -49,7 +51,7 @@ https://github.com/LLazyEmail/markdown-to-email/tree/main/src
 - [objectBuilder.js](#objectBuilder.js)
 - [parse.js](#parse.js)
 
-
+---
 
 ## [deliver](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/deliver)
 
@@ -124,19 +126,21 @@ _objectBuilder_ creating an object from different constants for a better access 
 - [helper](#helper)
 - [templates](#templates)
 
+---
+
 ## [callbacks](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacks)
 наши коллбеки для plain js 
 
 
 _callbacks_ connects RegEx with strings that must be wrapper in HTML
 
-
-
 ## [callbacksReact](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/callbacksReact)
 наши коллбеки для react
 
+
 ## [constants](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/constants)
 constants for 
+
 
 ## [domain](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain)
 domain єто папка в которой хранится изолированній функицонал, которій легко можно будет превратить в отдельніе модули
