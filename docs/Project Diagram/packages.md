@@ -1,5 +1,5 @@
 ---
-id: project-diagram
+id: project-diagram-packages
 title: Markdown to Email Project Diagram
 sidebar_label: Project Diagram
 ---
