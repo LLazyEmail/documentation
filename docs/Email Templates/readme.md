@@ -1,3 +1,8 @@
+---
+id: email-templates-schemes
+title: Email Templates schema
+sidebar_label: email-templates-schemes
+---
 
 
 
