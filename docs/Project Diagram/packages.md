@@ -4,9 +4,9 @@ title: Markdown-to-Email-Project-Diagram
 sidebar_label: Project Diagram
 ---
 
-[Purpose]()
+[Purpose](#purpose)
 
-[Scope]()
+[Scope](#scope)
 
 [Packages inside Markdown to Email/domain folder](#packages-inside-mtedomain-folder)
 
