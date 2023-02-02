@@ -1,7 +1,7 @@
 ---
-id: tasks
+id: organized-tasks
 title: organized-tasks
-sidebar_label: markdown-to-email, nomoretogo_email_template, different tasks
+sidebar_label: ifferent tasks
 ---
 
 
@@ -9,7 +9,7 @@ sidebar_label: markdown-to-email, nomoretogo_email_template, different tasks
 - [The task to check and probably close: Priority [Low]](3-the-task-to-check-and-probably-close-priority-low)
 - [Different Tasks](#different-tasks)
 - [Вопрос о найме фрилансера](#вопрос-о-найме-фрилансера)
-- []()
+
 
 
 
