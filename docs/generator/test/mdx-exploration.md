@@ -12,6 +12,7 @@ sidebar_label: task, Mdx bundler, Pros MDX
 
 - [Task 1: Pros MDX](#task-1-pros-mdx)
 
+
 ## Task 11
 
 | Name   | About  | Title  | Labels  | Assignees  |
@@ -89,21 +90,12 @@ A clear and concise description of any alternative solutions or features you've 
 
 ## Stakeholders and Dependent software components
 
-## Testing plan
-
-## Acceptance scenarios
-
 ## Other Design tenets
 
 ### Performance
 
-### Security
-
 ### Configuration
 
-### Maintainability (extensibility points in the design)
-
-### Logging
 
 ----
 
@@ -153,21 +145,14 @@ A clear and concise description of any alternative solutions or features you've 
 
 ## Stakeholders and Dependent software components
 
-## Testing plan
 
-## Acceptance scenarios
 
 ## Other Design tenets
 
 ### Performance
 
-### Security
-
-### Configuration
-
 ### Maintainability (extensibility points in the design)
 
-### Logging
 
 ----
 
