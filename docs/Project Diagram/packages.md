@@ -151,3 +151,17 @@ domain єто папка в которой хранится изолирован
 ## [templates](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/templates)
 Folder for keeping code of different templates that we have
 
+
+---
+
+old code related to replacer(parse, replacerClass): https://github.com/LLazyEmail/replacer/tree/main/html/replacer
+
+stateInit was keeped @ markup-generator previously 
+
+
+### Templates with submodules index
+
+
+Hackernoon template: https://github.com/LLazyEmail/hn_email_template
+
+
