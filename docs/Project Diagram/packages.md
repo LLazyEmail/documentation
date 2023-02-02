@@ -92,14 +92,16 @@ _replace-wrapper_ before were keeping a lot of different files/methods, but afte
 
 Inside **state** folder we creating a **state object** and connect tracking of errors and warnings.
 
+stateInit was keeped @ [markup-generator](https://github.com/LLazyEmail/markup-generator) previously 
 
 
 ## [write](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/write)
 
 
 Both versions of _write_ are used in our work. one version is used in MTE. 
-Second version from a separate repository is used in my Jest tests in our template (3 times).
+Second version from a [separate repository aka markup-generator](https://github.com/LLazyEmail/markup-generator) is used in my Jest tests in our template (3 times).
 
+I want to release a new version of markup-generator module, to move some functionality away from templates into it.
 
 
 ## [objectBuilder.js](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/objectBuilder.js)
@@ -158,7 +160,7 @@ Folder for keeping code of different templates that we have
 
 old code related to replacer(parse, replacerClass): https://github.com/LLazyEmail/replacer/tree/main/html/replacer
 
-stateInit was keeped @ markup-generator previously 
+
 
 
 ### Templates with submodules index
