@@ -9,9 +9,17 @@ Repository: https://github.com/LLazyEmail/nomoretogo_email_template
 
 
 ### I created a few examples of source.md files, that we might be able to conver and incorporate into MTE
-- [Current File](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md)
-- [Second Version](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md)
-- [Front Matter version, simplified](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md)
+- [Current File 01-source.md ](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md)
+- [Second Version 02-source-wrapped-recipes.md](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md)
+- [Front Matter version, simplified 03-source-front-matter.md](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md)
+
+
+Source.md
+- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md
+- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md
+- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md
+
+
 
 
 Errors & Params assertion
@@ -58,12 +66,6 @@ typography separate sounds funny to try.
 
 
 из documentation потом можно делать статейки
-
-
-Source.md
-- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md
-- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md
-- https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md
 
 
 
