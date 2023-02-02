@@ -20,8 +20,9 @@ Errors & Params assertion
 - checking create-html-element, ow for simplifying logic of our code
 
 
+---
 
-NMTG template
+NMTG template next steps
 
 - закончить в текущем состоянии
 
