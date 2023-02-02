@@ -68,6 +68,7 @@ error-handle stores method for output of errors in a way, that fine for us.
 
 ## [regular-expressions](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/regular-expressions)
 обновленная версия модуля с регулярными выражениями. прошлая версия хранится в маркдаун-регЭкс.
+additional regEx for custom cases.
 
 ## [replace-markdown](https://github.com/LLazyEmail/markdown-to-email/tree/main/src/domain/replace-markdown)
 функционал для раьботы реплейсера
@@ -106,15 +107,16 @@ Second version from a separate repository is used in my Jest tests in our templa
 _objectBuilder_ creating an object from different constants for a better access of it.
 
 
-- [parse.js](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/parse.js)
+## [parse.js](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/parse.js)
 
 
-
+---
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 
+---
 
 ## MTE packages
 
