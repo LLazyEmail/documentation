@@ -6,7 +6,8 @@ sidebar_label: ifferent tasks
 
 
 - [PR](#prs-to-review)
-- [The task to check and probably close: Priority [Low]](3-the-task-to-check-and-probably-close-priority-low)
+
+
 - [Different Tasks](#different-tasks)
 - [Вопрос о найме фрилансера](#вопрос-о-найме-фрилансера)
 
