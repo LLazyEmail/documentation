@@ -16,6 +16,8 @@ sidebar_label: markdown-to-email, nomoretogo_email_template, different tasks
 
 ## PRs to review
 - https://github.com/LLazyEmail/markdown-to-email/pull/1477
+- https://github.com/LLazyEmail/markdown-to-email/pull/1511
+- https://github.com/LLazyEmail/markdown-to-email/pull/1508
 
 ## Tasks related to repository `markdown-to-email`
 
