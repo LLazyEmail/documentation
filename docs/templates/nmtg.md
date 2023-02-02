@@ -8,6 +8,12 @@ Repository: https://github.com/LLazyEmail/nomoretogo_email_template
 
 
 
+Connecting NMTG Teplate withj MTE
+what must be done:
+- NMTG Template must have to work at the first place.
+- as i break it, we have issues with compatibilities. at the same time, we can make it better with everything
+
+
 ### I created a few examples of source.md files, that we might be able to conver and incorporate into MTE
 - [Current File 01-source.md ](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md)
 - [Second Version 02-source-wrapped-recipes.md](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md)
