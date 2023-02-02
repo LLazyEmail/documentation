@@ -4,6 +4,16 @@ title: organized-tasks
 sidebar_label: markdown-to-email, nomoretogo_email_template, different tasks
 ---
 
+
+- [PR](#prs-to-review)
+- [The task to check and probably close: Priority [Low]](3-the-task-to-check-and-probably-close-priority-low)
+- [Different Tasks](#different-tasks)
+- [Вопрос о найме фрилансера](#вопрос-о-найме-фрилансера)
+- []()
+
+
+
+
 ## PRs to review
 - https://github.com/LLazyEmail/markdown-to-email/pull/1477
 
@@ -204,7 +214,9 @@ Task with video: https://github.com/LLazyEmail/nomoretogo_email_template/issues/
 Sub-task: https://github.com/LLazyEmail/markdown-to-email/issues/1384
 
 
-#### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/
+### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/
+
+---
 
 delete or remove stuff like this one in our main branch
 https://github.com/LLazyEmail/markdown-to-email/blob/main/package/__ToUseLater/relieve.js
