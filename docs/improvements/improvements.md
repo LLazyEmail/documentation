@@ -1297,5 +1297,9 @@ A clear and concise description of any alternative solutions or features you've 
 ----
 
 
+Enable and fix ESLint warnings. Right now they are disabled @ MTE repository
+
+
+
 
 ### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
