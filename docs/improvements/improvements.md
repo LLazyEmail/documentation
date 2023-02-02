@@ -1305,6 +1305,11 @@ https://github.com/pahen/madge
 
 ---
 
+**remove unnecessary old method**
+**callbacks/helper**
+
+`getWrapper`
+`generateNewString`
 
 
 ### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
