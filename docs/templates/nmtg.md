@@ -8,7 +8,7 @@ Repository: https://github.com/LLazyEmail/nomoretogo_email_template
 
 
 
-### Examples of source.md files
+### I created a few examples of source.md files, that we might be able to conver and incorporate into MTE
 - [Current File](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/01-source.md)
 - [Second Version](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/02-source-wrapped-recipes.md)
 - [Front Matter version, simplified](https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md)
