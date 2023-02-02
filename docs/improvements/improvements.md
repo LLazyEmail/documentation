@@ -1299,13 +1299,12 @@ A clear and concise description of any alternative solutions or features you've 
 
 Enable and fix ESLint warnings. Right now they are disabled @ MTE repository
 
-**import/no-cycle issue**
-https://github.com/LLazyEmail/markdown-to-email/issues/1286
 
-![image](https://user-images.githubusercontent.com/1469198/178752138-476b7e4d-f251-4887-94ce-b903f0621b5a.png)
+---
+https://github.com/pahen/madge
 
+---
 
-я пока просто уберу эту ошибку, но нужно будет подумать. вохможно моя структура хрень
 
 
 ### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
