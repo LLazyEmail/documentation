@@ -4,6 +4,14 @@ title: display-factory-73
 sidebar_label: HN template, "ограничения" DisplayFactory
 ---
 
+with transition our templates into Typescript, i think we are loosing some quality of what we have previously.
+I was not able to create a few classes, like Factory and Errors class.
+I roll back and focusing on making our template work as it is right now.
+
+I removed cool way to collect errors/warnings inside our components.
+Logic was simple: if i made a mistake and didnt pass all necessary 
+
+
 # [Sub task] updated Display Factory - HN template
 
 trying-lit #1349
@@ -107,6 +115,14 @@ sample: https://blog.sessionstack.com/how-javascript-works-the-factory-design-pa
 
 я ж добавляю все ваши изменения. если какого то компонента нет - тут я скорее всего не виноват.
 но т.к. в нашем репозитории есть история всех изменений - мы легко можем пройтись по ней и найти компонент который нам нужен
+
+
+
+
+---------------
+
+
+
 
 
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
