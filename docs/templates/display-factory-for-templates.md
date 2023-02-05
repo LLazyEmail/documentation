@@ -9,7 +9,17 @@ I was not able to create a few classes, like Factory and Errors class.
 I roll back and focusing on making our template work as it is right now.
 
 I removed cool way to collect errors/warnings inside our components.
-Logic was simple: if i made a mistake and didnt pass all necessary 
+
+Logic was simple: if i made a mistake and didnt pass all necessary parameters inside - error will be added to an array of errors and will be shown, when i run our "display-*" methods.
+
+So if you trying to make a footer HTML string and it has 4 sub-components inside and one of them get broken, you'll get a notification about that.
+
+Before we created a class Errors, which will eat all errors/warnings, that might show some light of what was actually broken.
+
+This class was mostly useful when you developing this template. Now sure if it can be used inside of our MTE repository. But if done correctly, I think we can benefit from those kind of errors when we are trying to generate an email template inside MTE.
+
+
+In order to reduce the complexity of our logic i switched to **ow** modules from Sidnre Sorhus. That logic can be extended later, but right now we are going into simplification road and loosing a quality, that i dont like to be honest.
 
 
 # [Sub task] updated Display Factory - HN template
