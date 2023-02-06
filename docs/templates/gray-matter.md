@@ -28,22 +28,17 @@ create RegEx [image1-2-3] искать матч внутри recipes. C HN пр�
 what we have for markdown parser?
 Can we upgrade MTE stuff like ....
 
-улучшенная версия для создания нових темплейтов.
-
-[Template TS class Link]
-
-может setting for Template, where we have abstract stuff for
-- Head
-- Footer
-- Body / Content
-- Main
 
 
-подключение функции и работа с subcomponents.
+[Template TS class Link](https://github.com/LLazyEmail/documentation/blob/main/docs/templates/template-class-typescript.md)
 
 
 
-Что стоит нам перейти в React? Начать с простіх компонентов, обїединить их в один repository?
+
+**Что стоит нам перейти в React?** 
+
+Начать с простіх компонентов, обїединить их в один repository?
+
 Цель: сделать лучше, чем сделать react-email repo?
 
 
@@ -51,7 +46,7 @@ Can we upgrade MTE stuff like ....
 ==========
 
 
-Generator v3.
+## Generator v3.
 
 Goals:
 - more templates
@@ -62,9 +57,9 @@ Goals:
 
 
 Features:
-API
-React integration for templates production
-React for template Preview
+- API
+- React integration for templates production
+- React for template Preview
 
 упрощение работі replacer
 moving into MDX
@@ -80,7 +75,7 @@ moving into MDX
 =====
 
 
-Generator V3
+## Generator V3
 small fixes, которие уже біли обработани, описани і пріорітізованні.
 
 integration MTE with nmtg-template
@@ -90,7 +85,7 @@ nx vs nodejs vs Nextjs
 описание routes, API urls.
 
 
-Templates.
+## Templates
 now we have 3 repositories.
 
 2 of them works, old version, integrated with MTE
