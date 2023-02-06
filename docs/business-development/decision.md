@@ -52,3 +52,20 @@
 
 3. не забываем что я должен закинуть в проект примерно $150-200 - те деньги что ві закидівали в мае-июне.
 4. 
+
+
+---
+
+a) @Vadim can help with:
+- nmtg typescript template classes
+- some improves @ MTE project
+- integrate gray-matter (have all details)
+- publish documentation under our domain
+
+b) @Ivan - server for hosting + connecting our domain
+
+c) @Arthur - complete nmtg template, complete and publish our one page website
+
+so we have domain + website + documentation website to get indexed
+
+
