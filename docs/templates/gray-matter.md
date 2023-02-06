@@ -32,12 +32,12 @@ NMTG template must work for the first place
 например сделать кастомний таг **[weekly-menu]** в середине темплейта.
 
 
-HN
+### HN
 - https://github.com/LLazyEmail/creative/blob/main/content/hn/01-hackernoon-source.md
 - https://github.com/LLazyEmail/creative/blob/main/content/hn/02-hackernoon-source.md
 - https://github.com/LLazyEmail/creative/blob/main/content/hn/03-hackernoon-source.mdx
 
-NMTG
+### NMTG
 - https://github.com/LLazyEmail/creative/blob/main/content/nmtg/01-source.md
 - https://github.com/LLazyEmail/creative/blob/main/content/nmtg/02-source-wrapped-recipes.md
 - https://github.com/LLazyEmail/creative/blob/main/content/nmtg/03-source-front-matter.md
