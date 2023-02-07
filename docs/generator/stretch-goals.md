@@ -79,4 +79,4 @@ https://www.npmjs.com/package/commander
 - https://github.com/pluralsight/htmlTagValidator
 
 
-## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
