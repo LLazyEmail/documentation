@@ -1,7 +1,7 @@
 ---
 id: display-factory
-title: display-factory-73
-sidebar_label: HN template, "ограничения" DisplayFactory
+title: "ограничения" DisplayFactory
+sidebar_label: display factory 
 ---
 
 with transition our templates into Typescript, i think we are loosing some quality of what we have previously.
