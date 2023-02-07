@@ -1,7 +1,7 @@
 ---
 id: llazyemail-code-organization-index
 title: Repositories Index
-sidebar_label: Documentation, Main project, Markdown-regex module
+sidebar_label: Documentation
 ---
 
 ### Documentation: [LLazyEmail Documentation](https://llazyemail.github.io/documentation/)
@@ -12,6 +12,9 @@ Email Generator Template Universe
 ## Main project
 
 [Markdown-to-email](https://github.com/LLazyEmail/markdown-to-email)
+
+
+## [Awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing)
 
 
 ### Generator Module
@@ -81,8 +84,6 @@ Email Generator Template Universe
 * [Cool resources for sending emails](https://hackernoon.com/cool-resources-for-sending-emails)
 * [Businesses Have Messy Emails](https://hackernoon.com/businesses-have-messy-emails)
 * [Businesses Have Messy Emails: The Relationship between Security and Sales](https://hackernoon.com/businesses-have-messy-emails-the-relationship-between-security-and-sales)
-
-[Awesome-email-marketing](https://github.com/LLazyEmail/awesome-email-marketing)
 
 
 
