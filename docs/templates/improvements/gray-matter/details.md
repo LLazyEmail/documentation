@@ -2,15 +2,6 @@
 
 
 
-проверить работу всех мд. Все віводится, все работает.
-
-записать видео с тем, как работает gray-matter. его ми точно можем использовать в МТЕ, но возможно и mdx-node-loader заработает
-
-умеьшится количество кастомних блоков и их логика.
-
-есть вопрос по обновлению replacer.
-
-in nmtg вообще легко должно работать, потому что там целіе секции можно генерировать из config.
 
 
 
@@ -25,12 +16,12 @@ in nmtg вообще легко должно работать, потому чт
 2. для этой версии писать кастомный regEx 
 3. писать "сложный" callback, который будет обрабатывать параметры, которые regex "вырезает" из нашего контента.
 
-В темлпейте для hackernoon у нас уже sponsorship, preview text, memes и т.д.
+В темлпейте для hackernoon у нас уже **sponsorship**, **preview text**, **memes** и т.д.
 
 при этом, большинство кастомных блоков имеют внутри себя стандартные объекты из typography.
 Например:
-- sponsorship это image + link, heading + link внутри кастомного html блока.
-- memes это image + link
+- sponsorship: это image + link, heading + link внутри кастомного html блока.
+- memes: это image + link
 
 **Предложение**: рассмотреть возможность создания сборных, вложенных реплейсеров.
 Что я имею ввиду? 
@@ -67,14 +58,11 @@ https://user-images.githubusercontent.com/1469198/180642690-d6ca3af5-f9eb-4a55-a
 
 
 
-
-
 ### [sub task] trying to parse custom markdown tags
 https://github.com/LLazyEmail/markdown-to-email/issues/1384
 
 
 
-https://github.com/LLazyEmail/awesome-email-marketing/blob/main/improvements.md
 
 
 
@@ -136,6 +124,8 @@ https://user-images.githubusercontent.com/1469198/180642690-d6ca3af5-f9eb-4a55-a
 
 
 
+
+
 ### [complex callbacks](https://app.asana.com/0/1201360899207493/1202700806644230)
 ```
 у меня есть вопрос/идея которую бы я хотел обсудить.
@@ -151,7 +141,11 @@ Task with video: https://github.com/LLazyEmail/nomoretogo_email_template/issues/
 Sub-task: https://github.com/LLazyEmail/markdown-to-email/issues/1384
 
 
+
+
 ---
+
+
 
 ## GRAY-MATTER
 
@@ -181,6 +175,30 @@ Sub-task: https://github.com/LLazyEmail/markdown-to-email/issues/1384
 
 ----
 
-create RegEx [image1-2-3] искать матч внутри recipes. 
+create RegEx [image1], [image2] [image3] искать матч внутри HN template
 
-C HN прийдется поиграться.
+в NMTG там просто будет [weekly-menu]
+
+
+
+gray-matter точно cможем использовать в МТЕ, но возможно и mdx-node-loader заработает
+
+
+
+1. Уменьшится количество кастомних блоков и их логика.
+
+2. Нужно будет обновить replacer. 
+
+добавление gm в nmtg будет легко, тк контент однотипний.
+целіе секции можно генерировать из config.
+в hn прийдется 
+
+
+
+нужно будет обновить файли source.md.
+
+нужно обновить
+
+
+
+
