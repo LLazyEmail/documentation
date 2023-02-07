@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/1469198/217301026-52ed48ae-76c1-4c46-b743-95114422cf18.mp4
+
 ## Connecting NMTG template with MTE
 
 What must be done?
