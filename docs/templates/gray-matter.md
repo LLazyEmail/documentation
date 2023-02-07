@@ -44,7 +44,7 @@ Can we upgrade MTE stuff like ....
 
 ----
 
-Gray-Matter: https://github.com/LLazyEmail/documentation/blob/main/docs/templates/yaml-config.md
+[Gray-Matter](https://github.com/LLazyEmail/documentation/blob/main/docs/templates/yaml-config.md)
 
 ==========
 
