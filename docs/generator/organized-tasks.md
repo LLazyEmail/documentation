@@ -68,7 +68,7 @@ https://app.asana.com/0/1201360899207493/1202700551974378
 
 
 
-### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/
+### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
 
 ---
 
