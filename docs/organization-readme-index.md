@@ -1,7 +1,7 @@
 ---
-id: Documentation
+id: llazyemail-readme-documentation
 title: LLazyEmail Documentation
-sidebar_label: Documentation, Main project, Markdown-regex module
+sidebar_label: Documentation, Main project
 ---
 
 ## Hi there 👋
