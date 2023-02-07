@@ -2,7 +2,7 @@ https://github.com/LLazyEmail/documentation/blob/549fa173c4b26da6d243c28503312c9
 
 https://llazyemail.github.io/documentation/docs/generator/test/Documentation
 
-from our conversation with Sergey
+
 
 ## Если тебе нужна эмейл-рассылка.
 
