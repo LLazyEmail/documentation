@@ -1,6 +1,6 @@
 ---
 id: display-factory
-title: "ограничения" DisplayFactory
+title: ограничения DisplayFactory
 sidebar_label: display factory 
 ---
 
