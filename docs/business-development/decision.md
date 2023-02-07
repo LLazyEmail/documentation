@@ -64,4 +64,4 @@ so we have domain + website + documentation website to get indexed
 
 
 
-
+а что с асаной и гитхаб доской? где таски двигать?
