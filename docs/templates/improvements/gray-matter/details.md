@@ -2,6 +2,11 @@
 id: gray-matter
 title: Gray Matter Feature
 sidebar_label: Gray Matter
+tags:
+  - MTE
+  - mdx
+  - templates
+  - features
 ---
 
 [Related issue: Complex Blocks Issue](https://github.com/LLazyEmail/documentation/blob/main/docs/templates/improvements/gray-matter/complex-blocks-problem.md)
