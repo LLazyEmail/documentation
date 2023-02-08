@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>LLazyEmail Documentation Blog</title>
-        <link>https://llazyemail.github.io/documentation/blog</link>
+        <link>https://docs.llazyemail.com/blog</link>
         <description>LLazyEmail Documentation Blog</description>
-        <lastBuildDate>Wed, 08 Feb 2023 18:34:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 20:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Articles Articles]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/articles-archive</link>
+            <link>https://docs.llazyemail.com/blog/articles-archive</link>
             <guid>articles-archive</guid>
-            <pubDate>Wed, 08 Feb 2023 18:34:40 GMT</pubDate>
+            <pubDate>Wed, 08 Feb 2023 20:33:02 GMT</pubDate>
             <description><![CDATA[Arthur Tkachenko articles]]></description>
             <content:encoded><![CDATA[<h4 class="anchor anchorWithStickyNavbar_LWe7" id="arthur-tkachenko-articles">Arthur Tkachenko articles<a class="hash-link" href="#arthur-tkachenko-articles" title="Direct link to heading">​</a></h4><ul><li><a href="https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy" target="_blank" rel="noopener noreferrer">https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy</a></li><li><a href="https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template" target="_blank" rel="noopener noreferrer">https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template</a></li><li><a href="https://hackernoon.com/how-i-started-to-build-react-components-for-email-templates" target="_blank" rel="noopener noreferrer">https://hackernoon.com/how-i-started-to-build-react-components-for-email-templates</a></li><li><a href="https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates" target="_blank" rel="noopener noreferrer">https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates</a></li><li><a href="https://hackernoon.com/glossary-for-non-technies" target="_blank" rel="noopener noreferrer">https://hackernoon.com/glossary-for-non-technies</a></li><li><a href="https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter" target="_blank" rel="noopener noreferrer">https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter</a></li><li><a href="https://hackernoon.com/exploring-substack-for-building-your-newsletter" target="_blank" rel="noopener noreferrer">https://hackernoon.com/exploring-substack-for-building-your-newsletter</a></li><li><a href="https://hackernoon.com/building-a-design-system-for-email-templates-react" target="_blank" rel="noopener noreferrer">https://hackernoon.com/building-a-design-system-for-email-templates-react</a></li><li><a href="https://hackernoon.com/together4victory-list-of-email-marketing-tools" target="_blank" rel="noopener noreferrer">https://hackernoon.com/together4victory-list-of-email-marketing-tools</a></li><li><a href="https://hackernoon.com/cool-newsletters-for-developers-part-1" target="_blank" rel="noopener noreferrer">https://hackernoon.com/cool-newsletters-for-developers-part-1</a></li><li><a href="https://hackernoon.com/cool-resources-for-sending-emails" target="_blank" rel="noopener noreferrer">https://hackernoon.com/cool-resources-for-sending-emails</a></li></ul><h4 class="anchor anchorWithStickyNavbar_LWe7" id="linkedin-page-of-llazyemail"><a href="https://www.linkedin.com/company/llazyemail/" target="_blank" rel="noopener noreferrer">Linkedin page of LLazyEmail</a><a class="hash-link" href="#linkedin-page-of-llazyemail" title="Direct link to heading">​</a></h4>]]></content:encoded>
             <category>hola</category>
@@ -20,7 +20,7 @@
         </item>
         <item>
             <title><![CDATA[Category: HTML5]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/2022/09/12/Cool-Newsletters-for-developers-Part-3</link>
+            <link>https://docs.llazyemail.com/blog/2022/09/12/Cool-Newsletters-for-developers-Part-3</link>
             <guid>/2022/09/12/Cool-Newsletters-for-developers-Part-3</guid>
             <pubDate>Mon, 12 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[FrontEnd Focus]]></description>
@@ -28,7 +28,7 @@
         </item>
         <item>
             <title><![CDATA[Cool-Newsletters-for-developers-[Part 2]]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/2022/09/12/Cool-Newsletters-for-developers-[Part 2]</link>
+            <link>https://docs.llazyemail.com/blog/2022/09/12/Cool-Newsletters-for-developers-[Part 2]</link>
             <guid>/2022/09/12/Cool-Newsletters-for-developers-[Part 2]</guid>
             <pubDate>Mon, 12 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[[Cool Newsletters for developers [Part 1]]]></description>
@@ -37,7 +37,7 @@
         </item>
         <item>
             <title><![CDATA[сool-resources-for-sending-emails]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/2022/08/30/сool-resources-for-sending-emails</link>
+            <link>https://docs.llazyemail.com/blog/2022/08/30/сool-resources-for-sending-emails</link>
             <guid>/2022/08/30/сool-resources-for-sending-emails</guid>
             <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Cool resources for sending emails]]></description>
@@ -45,7 +45,7 @@
         </item>
         <item>
             <title><![CDATA[Reading list - Demand Curve - Tested tactics for growing newsletters]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/demand-curve-tested-tactics-for-growing-newsletters</link>
+            <link>https://docs.llazyemail.com/blog/demand-curve-tested-tactics-for-growing-newsletters</link>
             <guid>demand-curve-tested-tactics-for-growing-newsletters</guid>
             <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[- How to Send Newsletters On Demand]]></description>
@@ -55,7 +55,7 @@
         </item>
         <item>
             <title><![CDATA[How to Code HTML for Emails]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/how-to-code-html-for-emails</link>
+            <link>https://docs.llazyemail.com/blog/how-to-code-html-for-emails</link>
             <guid>how-to-code-html-for-emails</guid>
             <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[- Responsive Email Templates]]></description>
@@ -65,7 +65,7 @@
         </item>
         <item>
             <title><![CDATA[Transactional emails]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/transactional-emails</link>
+            <link>https://docs.llazyemail.com/blog/transactional-emails</link>
             <guid>transactional-emails</guid>
             <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[- Transactional Emails: Types, Examples and Best Practices]]></description>
@@ -74,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Github Repositories for Sending Emails]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/github-repositories-for-sending-emails</link>
+            <link>https://docs.llazyemail.com/blog/github-repositories-for-sending-emails</link>
             <guid>github-repositories-for-sending-emails</guid>
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[- Free Responsive HTML Email Template]]></description>
@@ -84,7 +84,7 @@
         </item>
         <item>
             <title><![CDATA[ Tested Ways to Increase Your Newsletter Subscribers]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/2022/08/23/ Tested Ways to Increase Your Newsletter Subscribers</link>
+            <link>https://docs.llazyemail.com/blog/2022/08/23/ Tested Ways to Increase Your Newsletter Subscribers</link>
             <guid>/2022/08/23/ Tested Ways to Increase Your Newsletter Subscribers</guid>
             <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Money is on the list. Impossible to deny it. Hang this sentence next to your PC. The newsletter is the best Web Marketing tool that exists. Dario Vignali, one of the best-known web marketing experts, talks about it in-depth in some posts and writes:]]></description>
@@ -106,7 +106,7 @@ When it comes to Email Marketing, we are talking about percentage data and gener
         </item>
         <item>
             <title><![CDATA[Email Marketing For eCommerce]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/email-marketing-for-ecommerce</link>
+            <link>https://docs.llazyemail.com/blog/email-marketing-for-ecommerce</link>
             <guid>email-marketing-for-ecommerce</guid>
             <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[- Klaviyo]]></description>
@@ -116,7 +116,7 @@ When it comes to Email Marketing, we are talking about percentage data and gener
         </item>
         <item>
             <title><![CDATA[Best Email Marketing Tools for 2022]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/best-email-marketing-tools-for-2022</link>
+            <link>https://docs.llazyemail.com/blog/best-email-marketing-tools-for-2022</link>
             <guid>best-email-marketing-tools-for-2022</guid>
             <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Best Email Marketing Tools for 2022]]></description>
@@ -126,7 +126,7 @@ When it comes to Email Marketing, we are talking about percentage data and gener
         </item>
         <item>
             <title><![CDATA[Cool Newsletters for developers [Part 1]]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/cool-newsletters-for-developers-part-1</link>
+            <link>https://docs.llazyemail.com/blog/cool-newsletters-for-developers-part-1</link>
             <guid>cool-newsletters-for-developers-part-1</guid>
             <pubDate>Sun, 15 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Here we'll explore cool newsletters for developers.]]></description>
@@ -136,7 +136,7 @@ When it comes to Email Marketing, we are talking about percentage data and gener
         </item>
         <item>
             <title><![CDATA[List of Email Marketing tools, Together4Victory]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/togetherforvictory-list-of-email-marketing-tools</link>
+            <link>https://docs.llazyemail.com/blog/togetherforvictory-list-of-email-marketing-tools</link>
             <guid>togetherforvictory-list-of-email-marketing-tools</guid>
             <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Today I'm collecting a list of email marketing service providers, aka Mailchimp alternatives. And I already found a lot of cool solutions for small businesses.]]></description>
@@ -168,7 +168,7 @@ Newsletter2go <a href="https://docs.newsletter2go.com/" target="_blank" rel="noo
         </item>
         <item>
             <title><![CDATA[Building a Design System for Email Templates (React)]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/building-a-design-system-for-email-templates-react</link>
+            <link>https://docs.llazyemail.com/blog/building-a-design-system-for-email-templates-react</link>
             <guid>building-a-design-system-for-email-templates-react</guid>
             <pubDate>Sun, 08 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[From April 2021 I'm pushing forward a few repositories that are part of the LLazyEmail organization:]]></description>
@@ -186,7 +186,7 @@ but I can tease you about what is coming next.</p><p>Here is a schema that I bui
         </item>
         <item>
             <title><![CDATA[Exploring Substack for Building Your Newsletter]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/exploring-substack-for-building-your-newsletter</link>
+            <link>https://docs.llazyemail.com/blog/exploring-substack-for-building-your-newsletter</link>
             <guid>exploring-substack-for-building-your-newsletter</guid>
             <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A few days ago I made a post on IndieHackers about my recent accomplishment. I counted my articles on Hackernoon related to #food-tech category and realize that during these years I published 24 articles. It's a huge accomplishment for me and I was happy to share it with others.]]></description>
@@ -204,7 +204,7 @@ And if you decide to migrate away, you'll probably lose some users.</p><p>Recent
         </item>
         <item>
             <title><![CDATA[Simple Glossary for Non Technies]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/glossary-for-non-technies</link>
+            <link>https://docs.llazyemail.com/blog/glossary-for-non-technies</link>
             <guid>glossary-for-non-technies</guid>
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Today I realized that some people dont know much about things like "Server", "Frontend" and others.]]></description>
@@ -240,7 +240,7 @@ An object is a combination of related variables, constants and other data struct
         </item>
         <item>
             <title><![CDATA[Cool resources for sending emails]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/cool-resources-for-sending-emails</link>
+            <link>https://docs.llazyemail.com/blog/cool-resources-for-sending-emails</link>
             <guid>cool-resources-for-sending-emails</guid>
             <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Today I find out that I have a lot of opened tabs, related to emails.]]></description>
@@ -251,7 +251,7 @@ An object is a combination of related variables, constants and other data struct
         </item>
         <item>
             <title><![CDATA[Introducing a Simple NPM Module with Email Templates]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/introducing-a-simple-npm-module-with-email-templates</link>
+            <link>https://docs.llazyemail.com/blog/introducing-a-simple-npm-module-with-email-templates</link>
             <guid>introducing-a-simple-npm-module-with-email-templates</guid>
             <pubDate>Sat, 09 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A story about the need for a default email template package.]]></description>
@@ -267,7 +267,7 @@ From novice developers to experienced ones, most are involved in sending emails 
         </item>
         <item>
             <title><![CDATA[How To Create a Curated Email Newsletter That Brings Results for Your Business]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business</link>
+            <link>https://docs.llazyemail.com/blog/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business</link>
             <guid>how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business</guid>
             <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Email marketing is the most effective channel available to marketers today.]]></description>
@@ -278,7 +278,7 @@ The first step in creating your curated email newsletter is choosing your topic.
         </item>
         <item>
             <title><![CDATA[Building React Components for Emails]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/building-react-components-for-emails</link>
+            <link>https://docs.llazyemail.com/blog/building-react-components-for-emails</link>
             <guid>building-react-components-for-emails</guid>
             <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Let me share a story about building React Components for emails and the email generator that I created.]]></description>
@@ -289,7 +289,7 @@ The first step in creating your curated email newsletter is choosing your topic.
         </item>
         <item>
             <title><![CDATA[Reading List Email Marketing Basics]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/reading-list-email-marketing-basics</link>
+            <link>https://docs.llazyemail.com/blog/reading-list-email-marketing-basics</link>
             <guid>reading-list-email-marketing-basics</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Strategies]]></description>
@@ -299,7 +299,7 @@ The first step in creating your curated email newsletter is choosing your topic.
         </item>
         <item>
             <title><![CDATA[Creating an advanced Structure for HTML Email Template]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/creating-an-advanced-structure-for-html-email-template</link>
+            <link>https://docs.llazyemail.com/blog/creating-an-advanced-structure-for-html-email-template</link>
             <guid>creating-an-advanced-structure-for-html-email-template</guid>
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[I was rebuilding a part of our markdown-to-email repository. I was not happy with how we handle templates in our generator.]]></description>
@@ -310,7 +310,7 @@ The first step in creating your curated email newsletter is choosing your topic.
         </item>
         <item>
             <title><![CDATA[How I Created a module for markdown RegEx`es]]></title>
-            <link>https://llazyemail.github.io/documentation/blog/how-i-created-a-simple-npm-package-with-basic-email-templates</link>
+            <link>https://docs.llazyemail.com/blog/how-i-created-a-simple-npm-package-with-basic-email-templates</link>
             <guid>how-i-created-a-simple-npm-package-with-basic-email-templates</guid>
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[While working on https://github.com/atherdon/markdown-to-email repository, we created and adapted a few cool things that I want to share with others.]]></description>
