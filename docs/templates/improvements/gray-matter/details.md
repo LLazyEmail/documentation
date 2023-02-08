@@ -4,8 +4,18 @@ title: Gray Matter Feature
 sidebar_label: Gray Matter
 ---
 
-[Complex Blocks Issue to read](https://github.com/LLazyEmail/documentation/blob/main/docs/templates/improvements/gray-matter/complex-blocks-problem.md)
+[Related issue: Complex Blocks Issue](https://github.com/LLazyEmail/documentation/blob/main/docs/templates/improvements/gray-matter/complex-blocks-problem.md)
 
+
+
+gray-matter 
+Pros
+- относится к улучшениям в **MTE**
+- step forward to **mdx**, that might use it.
+- упрощение **темплейтов**, потому что мі сразу будем знать, как data ходит внутри темлпейта.
+
+Упощает проблему добавления большего количества темлпейтов
+- задевает MTE c replace, templates
 
 ## GRAY-MATTER
 
