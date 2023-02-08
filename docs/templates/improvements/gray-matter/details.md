@@ -15,7 +15,9 @@ Pros
 - упрощение **темплейтов**, потому что мі сразу будем знать, как data ходит внутри темлпейта.
 
 Упощает проблему добавления большего количества темлпейтов
-- задевает MTE c replace, templates
+- задевает MTE c replacers, templates
+
+Areas: MTE, mdx, templates, features looks easy.
 
 ## GRAY-MATTER
 
