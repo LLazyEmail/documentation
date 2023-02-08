@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'LLazyEmail Documentation',
   tagline: 'Documentation for LLazyEmail',
-  url: 'https://llazyemail.github.io',
-  baseUrl: '/documentation/',
+  url: 'https://docs.llazyemail.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
