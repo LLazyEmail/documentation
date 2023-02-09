@@ -74,3 +74,26 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_liter
 
 
 https://github.com/motss/lit-ntml
+
+
+### interesting to explore in the future
+https://user-images.githubusercontent.com/1469198/173933820-d06a7e6a-0eca-49da-bfc1-ab44f68be4fb.mp4
+
+
+### finish github action + remove duplicated runs
+
+```
+    name: "Workflow"
+    on: ["push"]
+    jobs:
+      build:
+        runs-on: "ubuntu-latest"
+        steps:
+          - uses: "actions/checkout@master"
+          - name: "TODO to Issue"
+            uses: "alstr/todo-to-issue-action@v4.6.6"
+            id: "todo"
+```
+
+### DevOps: Add some github actions for running tests later
+
