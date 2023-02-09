@@ -81,6 +81,7 @@ gray-matter точно cможем использоваться в МТЕ, но 
 
 What must be done?
 1. нужно будет обновить файли source.md.
+1.1 добавить bash scripts that will simplify our pkg.json and make easier to pass different source.md files into our generator
 
 2. установить gray-matter в основной проект
 
