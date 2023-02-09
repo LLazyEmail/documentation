@@ -16,3 +16,13 @@ Link: https://github.com/LLazyEmail/markdown-to-email/issues/1383
 ![image](https://user-images.githubusercontent.com/1469198/183028007-3f041275-660d-4f6c-9447-565c4ec5a93a.png)
 
 
+
+
+### think about it 
+
+- https://www.npmjs.com/package/classnames
+- https://github.com/sindresorhus/stringify-attributes
+- https://github.com/sindresorhus/create-html-element
+- https://www.npmjs.com/package/html-element
+
+
