@@ -26,6 +26,13 @@ Source.md
 - https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/data/03-source-front-matter.md
 
 
+**Version 3**
+- https://github.com/LLazyEmail/creative/blob/main/content/nmtg/00-source.md
+- https://github.com/LLazyEmail/creative/blob/main/content/nmtg/01-source.md
+- https://github.com/LLazyEmail/creative/blob/main/content/nmtg/02-source-wrapped-recipes.md
+- https://github.com/LLazyEmail/creative/blob/main/content/nmtg/03-source-front-matter.md
+- https://github.com/LLazyEmail/creative/blob/main/content/nmtg/04-source.mdx
+
 
 
 Errors & Params assertion
