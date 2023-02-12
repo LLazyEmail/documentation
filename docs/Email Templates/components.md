@@ -1,3 +1,9 @@
+---
+id: order-details-schemes
+title: Email Components schema
+sidebar_label: email-component-schemes
+---
+
 
 Examples with "Order Details" emails
 
