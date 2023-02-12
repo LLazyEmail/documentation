@@ -4,9 +4,13 @@ title: Markdown-to-Email-Project-Diagram
 sidebar_label: Project Diagram
 ---
 
-[Purpose](#purpose)
 
-[Scope](#scope)
+![MTE Packages](https://raw.githubusercontent.com/LLazyEmail/creative/main/MTEPackages.png)
+
+
+<!-- [Purpose](#purpose) -->
+
+<!-- [Scope](#scope) -->
 
 [Packages inside Markdown to Email/domain folder](#packages-inside-mtedomain-folder)
 
