@@ -4,7 +4,12 @@
 
 
 
+- Design & layout
 
+- Mailing & Emailing service
+
+
+---
 
 Stop letting email control you
 
