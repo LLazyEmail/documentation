@@ -201,6 +201,29 @@ Linkedin: https://www.linkedin.com/company/llazyemail/
 
 ---
 
+что может делать
+
+какие критерии качества предоставляеміх услуг?
+
+увеличение количества отправляемых рассылок
+
+уменьшение времени на создание одной email campaign
+
+темплейт, который отображается хорошо в разных inboxes
+
+упрощение процесса по созданию и выкладке одной рассылки
+
+компания может фокусироваться на основной работе, не думая о том, будет ли отправлено письмо вовремя и без ошибок.
+
+примеры:
+Ecommerce - optimize your sales with advanced tools for sending emails.
+Startups - optimize your flows, subscriptions and transactional emails.
+Mobile apps: expand your notifications with old-fashion email marketing.
+Enterprise: Email Infrastructure for scale.
+
+Мы должны построить цикл создания email campaigns для нескольких клиентов
+
+---
 
 website: https://github.com/LLazyEmail/website
 ![image](https://user-images.githubusercontent.com/1469198/203313144-fa7fe435-3438-46ef-9b1e-686c95166bc4.png)
