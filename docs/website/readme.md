@@ -230,6 +230,16 @@ Design & layout
 Mailing & Emailing service
 
 ---
+
+- Select the right technology to meet your needs
+- Create a plan for each campaign
+- Set up your workflow using automated triggers
+- Keep contact segments clean and updated
+- Preview a test send of each email before wide distribution
+- Make sure your emails are mobile responsive
+- Always include a text version
+
+---
 website: https://github.com/LLazyEmail/website
 ![image](https://user-images.githubusercontent.com/1469198/203313144-fa7fe435-3438-46ef-9b1e-686c95166bc4.png)
 
