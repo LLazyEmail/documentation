@@ -98,7 +98,7 @@ https://www.salesforce.com/products/marketing-cloud/what-is-marketing-automation
 How Marketing Automation Generates Quality Leads
 
 
-
+---
 
 
 > Our digital newsletter and email marketing services connect our clients with target audience to forge relationships with prospective customers
@@ -106,3 +106,13 @@ How Marketing Automation Generates Quality Leads
 > to send out automated, personalized marketing emails that contain brand promotions and announcements.
 
 > Self-host your email marketing platform to send mail affordably via Amazon SES, Mailgun, Postmark, Sendgrid or your own SMTP server.
+ 
+---
+
+* Email A/B Testing
+* Email Tracking and Reports
+* Email Personalization
+* Drip Marketing
+* Integrated Sales Automation
+* Email Scheduling
+* Web Engagement
