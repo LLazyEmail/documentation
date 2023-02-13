@@ -116,3 +116,12 @@ How Marketing Automation Generates Quality Leads
 * Integrated Sales Automation
 * Email Scheduling
 * Web Engagement
+
+---
+
+
+* Automate your entire customer journey for faster results
+
+* Marketing automation is technology that manages marketing processes and multifunctional campaigns, across multiple channels, automatically
+
+---
