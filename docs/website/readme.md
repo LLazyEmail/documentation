@@ -12,10 +12,10 @@ Organize work email by using the right tools
 
 
 
-Lower response time.
-More visibility
-Better organization
-Distribution of tasks
+- Lower response time.
+- More visibility
+- Better organization
+- Distribution of tasks
 
 
 How to manage and organize work email
@@ -30,11 +30,11 @@ Managing your email, or email managing you?
 Reactive vs proactive: How do you check your email?
 
 
-Pressure to be responsive
-Lack of organization
+- Pressure to be responsive
+- Lack of organization
 
-Save and use message templates
-Use routing rules for actions you repeat in your inbox
+- Save and use message templates
+- Use routing rules for actions you repeat in your inbox
 
 
 
@@ -42,17 +42,17 @@ Use routing rules for actions you repeat in your inbox
 https://front.com/manage-work-email
 
 
-Categories 
-Custom layout
-Canned responses
-Integrations 
-Tags 
+- Categories 
+- Custom layout
+- Canned responses
+- Integrations 
+- Tags 
 
 
 
-Get a more organized workspace
-Be more productive
-Collaborate easier
+- Get a more organized workspace
+- Be more productive
+- Collaborate easier
 
 
 
@@ -64,24 +64,16 @@ Sort your contacts into groups
 https://www.indeed.com/career-advice/career-development/email-organization
 
 
-Select the right technology to meet your needs
-Create a plan for each campaign
-Set up your workflow using automated triggers
-Keep contact segments clean and updated
-Preview a test send of each email before wide distribution
-Make sure your emails are mobile responsive
-Always include a text version
-Measure and refine constantly
 
 https://www.agilecrm.com/blog/organize-email-marketing/
 
-Email A/B Testing
-Email Tracking and Reports
-Email Personalization
-Drip Marketing
-Integrated Sales Automation
-Email Scheduling
-Web Engagement
+- Email A/B Testing
+- Email Tracking and Reports
+- Email Personalization
+- Drip Marketing
+- Integrated Sales Automation
+- Email Scheduling
+- Web Engagement
 
 
 
@@ -104,13 +96,6 @@ How Marketing Automation Generates Quality Leads
 - Where is our data stored
 - What is the logic of ...
 
-- Select the right technology to meet your needs
-- Create a plan for each campaign
-- Set up your workflow using automated triggers
-- Keep contact segments clean and updated
-- Preview a test send of each email before wide distribution
-- Make sure your emails are mobile responsive
-- Always include a text version
 
 ![image](https://user-images.githubusercontent.com/1469198/203398984-a36d8c32-6dcd-4716-be21-65e96f2ce824.png)
 
@@ -149,22 +134,6 @@ Linkedin: https://www.linkedin.com/company/llazyemail/
 * https://github.com/LLazyEmail/default-email-template
 
 ----
-
-* Helping businesses to organize email marketing in correct way
-* Helping businesses to Organize Email Marketing to Achieve Higher ROI
-
----
-
-* Stop letting email control you
-* Organize work email by using the right tools
-
----
-
-* Lower response time
-* More visibility
-* Better organization
-* Distribution of tasks
-
 ---
 
 * How to manage and organize work email
@@ -184,18 +153,6 @@ Linkedin: https://www.linkedin.com/company/llazyemail/
 
 * [How to manage and organize work email](https://front.com/manage-work-email)
 
-* Categories 
-* Custom layout
-* Canned responses
-* Integrations 
-* Tags 
-
----
-
-* Get a more organized workspace
-* Be more productive
-* Collaborate easier
-
 ---
 
 
@@ -205,16 +162,6 @@ Linkedin: https://www.linkedin.com/company/llazyemail/
 
 ---
 
-* Select the right technology to meet your needs
-* Create a plan for each campaign
-* Set up your workflow using automated triggers
-* Keep contact segments clean and updated
-* Preview a test send of each email before wide distribution
-* Make sure your emails are mobile responsive
-* Always include a text version
-* Measure and refine constantly
-
----
 
 
 ### [9 ways to organize your email marketing before going insane](https://www.agilecrm.com/blog/organize-email-marketing/)
@@ -229,11 +176,6 @@ Linkedin: https://www.linkedin.com/company/llazyemail/
 
 ---
 
-* Automate your entire customer journey for faster results
-
-* Marketing automation is technology that manages marketing processes and multifunctional campaigns, across multiple channels, automatically
-
----
 
 * [What Is Marketing Automation?](https://www.salesforce.com/products/marketing-cloud/what-is-marketing-automation/#:~:text=The%20definition%20of%20marketing%20automation,web%2C%20social%2C%20and%20text).
 * How Marketing Automation Generates Quality Leads
@@ -290,19 +232,7 @@ Linkedin: https://www.linkedin.com/company/llazyemail/
 
 ---
 
-- Design & layout
 
-- Mailing & Emailing service
-
----
-
-- Select the right technology to meet your needs
-- Create a plan for each campaign
-- Set up your workflow using automated triggers
-- Keep contact segments clean and updated
-- Preview a test send of each email before wide distribution
-- Make sure your emails are mobile responsive
-- Always include a text version
 
 ---
 website: https://github.com/LLazyEmail/website
