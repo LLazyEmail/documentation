@@ -8,6 +8,7 @@
 
 - Mailing & Emailing service
 
+---
 
 - Email Template Production & Development
 - Modular Email Template
@@ -48,7 +49,7 @@ Reactive vs proactive: How do you check your email?
 - Use routing rules for actions you repeat in your inbox
 
 
-
+---
 
 https://front.com/manage-work-email
 
@@ -59,13 +60,14 @@ https://front.com/manage-work-email
 - Integrations 
 - Tags 
 
-
+---
 
 - Get a more organized workspace
 - Be more productive
 - Collaborate easier
 
 
+---
 
 Build email templates to send similar messages
 
@@ -130,8 +132,6 @@ How Marketing Automation Generates Quality Leads
 
 ---
 
-
-* Automate your entire customer journey for faster results
 
 * Marketing automation is technology that manages marketing processes and multifunctional campaigns, across multiple channels, automatically
 
