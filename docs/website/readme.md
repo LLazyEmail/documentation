@@ -1,3 +1,36 @@
+Why we need it
+What value we want to give to our user
+How do we want to do it
+Where is our data stored
+What is the logic of ...
+
+Select the right technology to meet your needs
+Create a plan for each campaign
+Set up your workflow using automated triggers
+Keep contact segments clean and updated
+Preview a test send of each email before wide distribution
+Make sure your emails are mobile responsive
+Always include a text version
+
+![image](https://user-images.githubusercontent.com/1469198/203398984-a36d8c32-6dcd-4716-be21-65e96f2ce824.png)
+
+
+Linkedin: https://www.linkedin.com/company/llazyemail/
+
+
+єто компания, которая предоставляет услуги:
+
+сервис по организации рассылок.
+
+> Helping businesses to Organize Email Marketing to Achieve Higher ROI
+
+> Our digital newsletter and email marketing services connect our clients with target audience to forge relationships with prospective customers
+
+> to send out automated, personalized marketing emails that contain brand promotions and announcements.
+
+> Self-host your email marketing platform to send mail affordably via Amazon SES, Mailgun, Postmark, Sendgrid or your own SMTP server.
+
+
 # Designed for you
 
 - [Customer case studies](https://emailoctopus.com/customers)
