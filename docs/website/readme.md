@@ -3,7 +3,7 @@
 > Helping businesses to organize email marketing in correct way
 
 
-
+![](https://user-images.githubusercontent.com/1469198/203398984-a36d8c32-6dcd-4716-be21-65e96f2ce824.png)
 
 
 Stop letting email control you
