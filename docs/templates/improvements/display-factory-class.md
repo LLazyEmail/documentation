@@ -4,6 +4,8 @@ title: ограничения DisplayFactory
 sidebar_label: display factory 
 ---
 
+> Note: from nmtg template i was forced to remove factory class, componentUniversal class and Errors class.
+
 with transition our templates into Typescript, i think we are loosing some quality of what we have previously.
 I was not able to create a few classes, like Factory and Errors class.
 I roll back and focusing on making our template work as it is right now.
@@ -20,6 +22,9 @@ This class was mostly useful when you developing this template. Now sure if it c
 
 
 In order to reduce the complexity of our logic i switched to **ow** modules from Sidnre Sorhus. That logic can be extended later, but right now we are going into simplification road and loosing a quality, that i dont like to be honest.
+
+
+
 
 
 # [Sub task] updated Display Factory - HN template
