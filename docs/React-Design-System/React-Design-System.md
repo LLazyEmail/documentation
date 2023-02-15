@@ -9,23 +9,37 @@ sidebar_label: React Design System
 modules that we developing right now
 
 - [Typography](https://github.com/LLazyEmail/react-email-typography-components)
+
 Basic components, like headings, links, buttons, images with links.
+
 [Schema](#typography-components)
 
+---
+
 - [Nextjs-preview](https://github.com/LLazyEmail/nextjs-preview)
+
 Repository with nextJS framework for previewing templates
 
+---
 - [Miscellaneous](https://github.com/LLazyEmail/react-email-miscellaneous-components)
+
 Small components, related to email templates, like unsubscribe links, social media panel, etc.
+
 [Components](#list-of-miscellaneous-components)
 
+---
 - [Template](https://github.com/LLazyEmail/react-email-template)
+
 Default repository with backbone project that you can use as starting point
+
 [Folders structure](#email-template-folders-structure)
 
+---
 - [Table](https://github.com/LLazyEmail/react-email-table)
+
 Set of components, related to basic tables. Can be used for containers.
 
+---
 - [Email-template-react](https://github.com/LLazyEmail/email-template-react)
 - [React-email-letter-components](https://github.com/LLazyEmail/react-email-letter-components)
 - [Form](https://github.com/LLazyEmail/react-sendgrid-form)
