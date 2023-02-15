@@ -6,15 +6,29 @@ sidebar_label: React Design System
 
 
 ### React Design System
+modules that we developing right now
 
 - [Typography](https://github.com/LLazyEmail/react-email-typography-components)
+Basic components, like headings, links, buttons, images with links.
+[Schema](#)
+
 - [Nextjs-preview](https://github.com/LLazyEmail/nextjs-preview)
+Repository with nextJS framework for previewing templates
+
 - [Miscellaneous](https://github.com/LLazyEmail/react-email-miscellaneous-components)
-- [Form](https://github.com/LLazyEmail/react-sendgrid-form)
+Small components, related to email templates, like unsubscribe links, social media panel, etc.
+[Components](#)
+
 - [Template](https://github.com/LLazyEmail/react-email-template)
+Default repository with backbone project that you can use as starting point
+[Folders structure](#)
+
 - [Table](https://github.com/LLazyEmail/react-email-table)
+Set of components, related to basic tables. Can be used for containers.
+
 - [Email-template-react](https://github.com/LLazyEmail/email-template-react)
 - [React-email-letter-components](https://github.com/LLazyEmail/react-email-letter-components)
+- [Form](https://github.com/LLazyEmail/react-sendgrid-form)
 
 ### Remix-* templates
 
@@ -51,11 +65,11 @@ sidebar_label: React Design System
 - <a href="/templates/vouchful.html" target="_parent">vouchful</a>
 
 
-### Major Release steps
+### Major Release steps (stretch goals)
 - complete table repo 
-- work on typography repository
+- work on the typography repository
 - to check what is going on with the NextJS preview repository
-- to review the current state of the HN template and what is necessary to complete in order to meet our goals
+- to review the current state of the HN template and what is necessary to complete to meet our goals
 
 - at the same time, maybe it will be easier to complete & release a few "billing" templates that we have.
 
@@ -71,25 +85,27 @@ naming we react templates and organizing repositories
 My goal a year ago was to clean up our markdown-to-email repository. 
 We have a 2nd branch, packed with react stuff, now it's separated but needs input to finish things.
 
+---
+
 A generator is using the outer template and inner components(Interior) separately.  
 This is why we split things that way. While the generator is creating content dynamically, the outer template is static.
 
-## Image 1
+## Inner Template folders structure
 
 ![1](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/interior-components.jpg)
 
-## Image 2
+## List of Miscellaneous components
 
 ![2](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/miscellaneous.jpg)
 
-## Image 3
+## Email Template Folders structure
 
 ![3](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/outer-template.jpg)
 
-## Image 4
+## React Templates structure
 
 ![4](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/templates-in-progress.jpg)
 
-## Image 5
+## Typography Components 
 
 ![5](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/typography.jpg)
