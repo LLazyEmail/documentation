@@ -1,10 +1,10 @@
 Note: might be outdated at some point.
 
 
-react-email-typography-components
+## react-email-typography-components
 
 
-## Components
+### Components
 
 - Divider
 - HeadingOne
@@ -19,9 +19,9 @@ react-email-typography-components
 
 ---
 
-react-email-miscellaneous-components
+## react-email-miscellaneous-components
 
-## Components
+### Components
 
 - Address
 - BasicTable
@@ -42,9 +42,9 @@ react-email-miscellaneous-components
 
 ---
 
-https://github.com/LLazyEmail/react-email-table
+## https://github.com/LLazyEmail/react-email-table
 
-## Components
+### Components
 - Table
 - BasicTable
 - Row
@@ -55,7 +55,7 @@ https://github.com/LLazyEmail/react-email-table
 
 ---
 
-react-email-template
+## react-email-template
 
 
 Elements/
