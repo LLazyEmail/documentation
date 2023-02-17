@@ -13,6 +13,7 @@ Devs using it a lot: https://github.com/pavkout/react-mailkit
 ---
 
 Unified reack-markdown repository: https://github.com/remarkjs/react-markdown
+https://retool.com/blog/react-markdown-component-the-easy-way-to-create-rich-text/
 
 ---
  A framework for emails: 
