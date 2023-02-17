@@ -123,3 +123,5 @@ This is why we split things that way. While the generator is creating content dy
 ## Typography Components 
 
 ![5](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/typography.jpg)
+
+---
