@@ -14,3 +14,39 @@ sidebar_label: email-template
 
 
 ## Components
+
+Elements/
+
+-- Block
+
+-- Fonts
+
+-- Head
+
+-- HeadStyles
+
+-- Header
+
+-- LogoImage
+
+-- LogoLayout
+
+-- PreviewText
+
+-- Sponsor
+
+-- Title
+
+Template/
+
+-- BodyExample
+
+-- GoogleExample.js
+
+-- TemplateExample.jsx
+
+-- TemplateLayout.jsx
+
+
+
+
