@@ -14,9 +14,17 @@ sidebar_label: react-typography
 
 
 ## Components
-- ччч
-- чччe
-- ччч
-- ччч
-- ччч
-- ччч
+
+- Divider
+- HeadingOne
+- HeadingThree
+- Italic
+- Link
+- List
+- Paragraph
+- Separator
+- Strong
+- Subtitle
+
+
+![5](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/typography.jpg)
