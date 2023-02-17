@@ -1,17 +1,21 @@
+Pros: Most up-to date code
+
 - https://react.email/
 
 - https://github.com/resendlabs/
 
 ---
 
-- https://github.com/pavkout/react-mailkit
+Devs using it a lot: - https://github.com/pavkout/react-mailkit
 
 
 ---
-
+ A framework for emails: 
 - EmailJS: https://www.emailjs.com/docs/examples/reactjs/
 
 ---
+
+MJML is quite popular as well
 
 https://mjml.io/
 
