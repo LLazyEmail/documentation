@@ -10,6 +10,9 @@ Pros: Most up-to date code
 
 Devs using it a lot: https://github.com/pavkout/react-mailkit
 
+---
+
+Unified reack-markdown repository: https://github.com/remarkjs/react-markdown
 
 ---
  A framework for emails: 
