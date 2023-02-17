@@ -6,7 +6,7 @@ Pros: Most up-to date code
 
 ---
 
-Devs using it a lot: - https://github.com/pavkout/react-mailkit
+Devs using it a lot: https://github.com/pavkout/react-mailkit
 
 
 ---
