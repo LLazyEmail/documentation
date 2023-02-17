@@ -353,32 +353,6 @@ __coder-do:__
 
 Плюс в full template нету компонента для футера!
 
-## Proposal or Solution
-
-A clear and concise description of what you want to happen.
-
-### Design
-
-UMLs or describe entities involved, their behaviors and relationships.
-
-### Sample usage
-
-Clear set of instructions
-
-## Alternatives solutions
-
-A clear and concise description of any alternative solutions or features you've considered.
-
-## Stakeholders and Dependent software components
-
-## Testing plan
-
-## Acceptance scenarios
-
-## Other Design tenets
-
-### Performance
-
 
 
 ### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
