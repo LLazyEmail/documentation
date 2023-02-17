@@ -5,9 +5,30 @@ sidebar_label: react-table-repository
 ---
 
 
-Link: https://github.com/LLazyEmail/react-email-table
+Repository Link: https://github.com/LLazyEmail/react-email-table
 
 
+## Table of contents
+
+- [components inside](#components)
+- [We can create a set of basic jest tests for our tables](#we-can-create-a-set-of-basic-jest-tests-for-our-tables-331)
+- [Styles discussion](#styles-discussion-329)
+- [Table tags as examples](#table-tags-as-examples-327)
+- [Tr rows](#tr-rows-326)
+- [Explore TS examples](#explore-ts-examples-174)
+- [Steal info from revivek/oy](#steal-info-from-httpsgithubcomrevivekoy-135)
+- [Try to run storybook and see if it work](#try-to-run-storybook-and-see-if-it-work-85)
+- [Different grids](#different-grids-22)
+- [Should we have a Box component?](#should-we-have-a-box-component-20)
+- [Compare with #19](#compare-with-19)
+
+## Components
+- Table
+- BasicTable
+- Row
+- Rows
+- Section
+- TableLeft
 
 ## We can create a set of basic jest tests for our tables [#331](https://github.com/LLazyEmail/react-email-table/issues/331)
 
