@@ -15,6 +15,8 @@
 
 https://mjml.io/
 
-https://www.npmjs.com/package/mjml-react
+https://www.npmjs.com/package/mjml-react - outdated
+
+more fresh version: https://github.com/Faire/mjml-react
 
 ---
