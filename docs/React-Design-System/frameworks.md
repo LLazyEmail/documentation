@@ -78,3 +78,31 @@ https://foundation.zurb.com/emails
 - https://designmodo.com/email-newsletter-template
 - https://mailpost.io/
 
+---
+
+Simple tutorials to take a look:
+- https://assertible.com/blog/creating-email-templates-with-react-components
+- https://paddle.com/blog/why-we-created-an-email-system-using-react/
+- https://bestofreactjs.com/repo/chromakode-react-html-email-react-renderers
+- https://building.lang.ai/how-to-build-emails-with-react-fcf941b125d1
+
+
+
+- https://www.npmjs.com/package/react-html-email-browser
+
+
+- https://blog.bitsrc.io/reusable-components-in-react-a-practical-guide-ec15a81a4d71
+- https://www.freecodecamp.org/news/how-to-create-a-truly-reusable-react-component-from-scratch/
+- https://github.com/teambit/base-ui/blob/master/src/text/paragraph/paragraph.tsx
+
+
+---
+
+https://github.com/SparkPost/heml/blob/master/packages/heml-elements/src/Typography.js
+
+https://heml.io/docs/getting-started/usage/
+
+
+
+https://github.com/Saifadin/postonents
+
