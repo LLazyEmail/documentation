@@ -34,6 +34,20 @@
 
 ---
 
+
+- html-typography-tags
+
+- nmtg-template-mailerlite-typography
+
+- nmtg-template-mailerlite-outertemplate
+
+- nmtg-template-layout-weekly
+
+- nmtg-template-mailerlite-inner
+
+- nmtg-template-display
+
+
 ```
 CHECK CASES WHEN CONTENT CAN HAVE EMPTY LISTS OR BLOCKQUOTE
 
