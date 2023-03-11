@@ -33,6 +33,8 @@
 
 
 ---
+
+```
 CHECK CASES WHEN CONTENT CAN HAVE EMPTY LISTS OR BLOCKQUOTE
 
 Replacer.emptyUl();
@@ -42,6 +44,7 @@ Replacer.emptyOl();
 Replacer.emptyBlockquote();
 
 Replacer.separator();
+```
 
 ### Proposal or Solution
 
@@ -65,14 +68,3 @@ A clear and concise description of any alternative solutions or features you've 
 
 ### Acceptance scenarios
 
-## Other Design tenets
-
-### Performance
-
-### Security
-
-### Configuration
-
-### Maintainability (extensibility points in the design)
-
-### Logging
