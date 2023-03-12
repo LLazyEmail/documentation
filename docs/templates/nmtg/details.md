@@ -82,3 +82,33 @@ A clear and concise description of any alternative solutions or features you've 
 
 ### Acceptance scenarios
 
+
+html-typography-tags
+
+```
+button.js
+
+div.js
+
+heading-nmtg.js
+
+heading.js
+
+headingOne.js
+
+image.js
+
+imageLink.js
+
+italic.js
+
+link.js
+
+list.js
+
+listItem.js
+
+paragraph.js
+
+strong.js
+```
