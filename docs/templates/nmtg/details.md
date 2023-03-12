@@ -1,15 +1,8 @@
 
-## Task 11: Migration of small components [#197](https://github.com/LLazyEmail/nomoretogo_email_template/issues/197)
-
-| Name   | About  | Title  | Labels  | Assignees  |
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-| Migration of small components | Migration of small components | "" | "" | "" |
-
 ### Reason or Problem
 
 В typography у нас сейчас мало компонентов. А Вадим хочет попробывать работу этого модуля и подклюить его к основному генератору.
 
-Я создал пустые файлы, если будут вопросы -скажите, я детальнее сделаю описание.
 
 Вначале надо перенести:
 
