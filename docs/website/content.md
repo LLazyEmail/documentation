@@ -17,3 +17,12 @@ use cases:
 - pricing
 - Reliability
 - Simplicity
+
+
+Monetizing your newsletter
+
+can be a simple version, a ew slides thing or later can be expanded into something cool
+
+cross-things: doing videos - message about it.
+doing podcast: send annotation or timecodes.
+digital articsts: notify about new release.
