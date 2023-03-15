@@ -9,3 +9,11 @@ use cases:
 - blog, tech service, founders, indie-hackers
 - recipes, workouts, welness, productivity times
 - news digests
+
+
+- ecommerce
+- automation side
+- scalability
+- pricing
+- Reliability
+- Simplicity
