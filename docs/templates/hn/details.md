@@ -7,6 +7,8 @@ sidebar_label: HN Template
 
 Repository: https://github.com/LLazyEmail/hn_email_template
 
+Interesting to try: https://www.npmjs.com/package/typography
+
 
 ```
 import typography from 'atherdon-newsletter-js-layouts-typography';
