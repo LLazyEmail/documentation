@@ -160,6 +160,8 @@ domain єто папка в которой хранится изолирован
 Folder for keeping code of different templates that we have
 
 
+[hn](https://github.com/LLazyEmail/hn_email_template/blob/main/README.md)
+
 ---
 
 old code related to replacer(parse, replacerClass): https://github.com/LLazyEmail/replacer/tree/main/html/replacer
