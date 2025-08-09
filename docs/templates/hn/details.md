@@ -49,7 +49,7 @@ Main object: `import TObject from 'atherdon-old-newsletter-js-outertemplate';`
 
 ---
 
-```markdown
+
 # Template Components Documentation
 
 This documentation describes various reusable components designed for building email templates with clear, semantic, and customizable HTML structures. Each component is built as a simple, composable element, enabling flexible email design.
@@ -60,11 +60,6 @@ This documentation describes various reusable components designed for building e
 
 A styled button component with customizable text, link, and styles.
 
-**Usage:**
-
-```jsx
-<Button href="https://example.com">Click Me</Button>
-```
 
 **HTML Output:**
 
@@ -80,11 +75,6 @@ A styled button component with customizable text, link, and styles.
 
 Represents a section heading with semantic styling.
 
-**Usage:**
-
-```jsx
-<Heading level={2}>Section Title</Heading>
-```
 
 **HTML Output:**
 
@@ -98,11 +88,6 @@ Represents a section heading with semantic styling.
 
 Displays an image with optional styling.
 
-**Usage:**
-
-```jsx
-<Image src="https://via.placeholder.com/600x200" alt="Sample Image" />
-```
 
 **HTML Output:**
 
@@ -116,11 +101,6 @@ Displays an image with optional styling.
 
 Applies italic styling to its children text.
 
-**Usage:**
-
-```jsx
-<Italic>This text is italicized.</Italic>
-```
 
 **HTML Output:**
 
@@ -134,11 +114,6 @@ Applies italic styling to its children text.
 
 A styled link component.
 
-**Usage:**
-
-```jsx
-<Link href="https://example.com">Visit our site</Link>
-```
 
 **HTML Output:**
 
@@ -152,14 +127,6 @@ A styled link component.
 
 Creates an unordered list.
 
-**Usage:**
-
-```jsx
-<List>
-  <ListItem>Item 1</ListItem>
-  <ListItem>Item 2</ListItem>
-</List>
-```
 
 **HTML Output:**
 
@@ -176,21 +143,11 @@ Creates an unordered list.
 
 Represents an individual item in a list.
 
-**Usage:**
-
-See above within `List`.
-
----
 
 ## MainTitle
 
 Represents a large, prominent main title.
 
-**Usage:**
-
-```jsx
-<MainTitle>Primary Heading</MainTitle>
-```
 
 **HTML Output:**
 
@@ -204,11 +161,6 @@ Represents a large, prominent main title.
 
 A block of paragraph text.
 
-**Usage:**
-
-```jsx
-<Paragraph>This is a paragraph of text.</Paragraph>
-```
 
 **HTML Output:**
 
@@ -222,11 +174,6 @@ A block of paragraph text.
 
 A horizontal line used to separate content sections.
 
-**Usage:**
-
-```jsx
-<Separator />
-```
 
 **HTML Output:**
 
@@ -240,11 +187,6 @@ A horizontal line used to separate content sections.
 
 Bold text for emphasis.
 
-**Usage:**
-
-```jsx
-<Strong>This is important</Strong>
-```
 
 **HTML Output:**
 
@@ -258,11 +200,6 @@ Bold text for emphasis.
 
 Secondary heading or sub-section title.
 
-**Usage:**
-
-```jsx
-<Subtitle>Subsection Title</Subtitle>
-```
 
 **HTML Output:**
 
@@ -274,9 +211,6 @@ Secondary heading or sub-section title.
 
 ## Summary
 
-These components help create clean, semantic, and visually appealing email templates. Each component offers customization options while maintaining compatibility with most email clients.
-
----
 
 
 ---
