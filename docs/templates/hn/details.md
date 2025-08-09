@@ -46,7 +46,6 @@ Main object: `import TObject from 'atherdon-old-newsletter-js-outertemplate';`
 
 
 
-Absolutely! I'll prepare a comprehensive, clear, and organized documentation draft for the components you linked, suitable for your page at [details.md](https://github.com/LLazyEmail/documentation/blob/main/docs/templates/hn/details.md). I'll include descriptions, code snippets, and HTML previews for each component. Here is the detailed draft:
 
 ---
 
@@ -279,26 +278,21 @@ These components help create clean, semantic, and visually appealing email templ
 
 ---
 
-Feel free to customize the descriptions, style snippets, or add further examples as needed. Would you like me to prepare this as a downloadable markdown file for your use?
-```
 
 ---
+
 
 
 ## 2nd VERSION
 
-Thank you for pointing that out. I’ve reviewed the links you provided and I understand that your components are functions that accept attributes and inner content to generate HTML strings dynamically.
+ a refined version of the documentation with example usage that matches how your components are designed — they are functions that take an `attributes` object and `children` (inner content), returning HTML strings.
 
-Based on the code in those files, here is a refined version of the documentation with example usage that matches how your components are designed — they are functions that take an `attributes` object and `children` (inner content), returning HTML strings.
 
----
-
-```markdown
 # Template Components Documentation
 
 This documentation describes various components implemented as functions that generate HTML strings for email templates. These components accept attribute objects for customization and inner content as arguments, simplifying the process of building dynamic, styled email content.
 
----
+
 
 ## Button
 
