@@ -45,7 +45,7 @@ Main object: `import TObject from 'atherdon-old-newsletter-js-outertemplate';`
 
 
 
-
+TODO: закончить форматирование страници. добавить информацию по спонсорам и т.д.
 
 ---
 
