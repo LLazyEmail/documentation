@@ -39,14 +39,14 @@ trying-lit #1349
 
 есть 2 варианта решения нашей проблемы
 
-1. вместо этой функции мы просто передаем строку {content} и наш реплейсер это должен хавать.
+1. вместо этой функции мы просто передаем строку \{content\} и наш реплейсер это должен хавать.
 т.е.
 
 `let addon1 = {
   footer: FooterHTMLString,
   logoTop: logoTopComponent(),
   logoBottom: logoBottomComponent(),
-  content: "{content}",
+  content: "\{content\}",
   // content: '[[THIS IS PLACE FOR A CONTENT INSIDE]',
   previewText: previewTextComponent('[AMA PREVIEW TEXT]'),
 };`

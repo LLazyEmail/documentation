@@ -1,5 +1,5 @@
 ---
-id: entitie
+id: improvements-entities
 title: improvements-entities
 sidebar_label: improvements
 ---

@@ -35,7 +35,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Generator-markdown-to-html](https://github.com/LLazyEmail/generator-markdown-to-html)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -48,7 +48,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Markdown-regex](https://github.com/LLazyEmail/markdown-regex)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -61,7 +61,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Trying-lit](https://github.com/LLazyEmail/_trying-lit)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -74,7 +74,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-plain-template-example](https://github.com/LLazyEmail/react-plain-template-example)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -87,7 +87,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Template-object](https://github.com/LLazyEmail/template-object)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -100,7 +100,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Default-email-template](https://github.com/LLazyEmail/default-email-template)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -111,7 +111,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Generator-module](https://github.com/LLazyEmail/generator-module)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -122,7 +122,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Replacer](https://github.com/LLazyEmail/replacer)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -133,7 +133,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Pixel-email-cli](https://github.com/LLazyEmail/pixel-email-cli)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -146,7 +146,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-email-template](https://github.com/LLazyEmail/react-email-template)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -159,7 +159,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-email-typography-components](https://github.com/LLazyEmail/react-email-typography-components)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -170,7 +170,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Nextjs-preview](https://github.com/LLazyEmail/nextjs-preview)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -181,7 +181,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-email-miscellaneous-components](https://github.com/LLazyEmail/react-email-miscellaneous-components)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -192,7 +192,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-sendgrid-form](https://github.com/LLazyEmail/react-sendgrid-form)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -203,7 +203,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-email-template](https://github.com/LLazyEmail/react-email-template)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -214,7 +214,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-email-table](https://github.com/LLazyEmail/react-email-table)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -225,7 +225,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [Email-template-react](https://github.com/LLazyEmail/email-template-react)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
@@ -236,7 +236,7 @@ Modules for Markdown-to-Email project
 
 **Link**: [React-email-letter-components](https://github.com/LLazyEmail/react-email-letter-components)
 
-**Description**: <>
+**Description**: FIXED
 
 **Status**: not finished
 
