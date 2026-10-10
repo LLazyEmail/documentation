@@ -1,6 +1,6 @@
-![First Newsletter Campaign](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/ClientCheckList%231.png)
+![First Newsletter Campaign](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/ClientCheckList-1.png)
 
-![next campaigns](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/ClientCheckList%232.png)
+![next campaigns](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/ClientCheckList-2.png)
 
 
 https://github.com/LLazyEmail/documentation/blob/549fa173c4b26da6d243c28503312c9d915c7f5f/docs/generator/test/LLazyEmail%20Documentation.md
