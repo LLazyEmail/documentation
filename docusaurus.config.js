@@ -38,6 +38,8 @@ const config = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/LLazyEmail/documentation/tree/main/',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
