@@ -1,0 +1,22 @@
+[
+  {
+    "term": "ESP",
+    "definition": "Email Service Provider — a platform used to send marketing or transactional email."
+  },
+  {
+    "term": "Design system (email)",
+    "definition": "Shared React/HTML building blocks used to assemble templates consistently."
+  },
+  {
+    "term": "Markdown-to-email",
+    "definition": "Pipeline that turns markdown (and front matter) into HTML email bodies."
+  },
+  {
+    "term": "Deliverability",
+    "definition": "Whether messages reach the inbox versus spam/promotions."
+  },
+  {
+    "term": "Transactional email",
+    "definition": "Automated messages triggered by user actions, distinct from marketing newsletters."
+  }
+]
