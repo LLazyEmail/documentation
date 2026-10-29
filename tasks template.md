@@ -1,3 +1,5 @@
+> **Legacy:** Historical issue-form scratch table. Prefer `.github/ISSUE_TEMPLATE/` forms. Kept for archive continuity (not deleted).
+
 ---
 
 | Name       | About    | Title      | Labels    | Assignees  |
