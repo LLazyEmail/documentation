@@ -1,7 +1,8 @@
 ---
 id: Modules-Index
-title: Modules-Index
-sidebar_label: Modules-Index
+title: Modules Index
+description: Index of LLazyEmail modules and related documentation entry points.
+sidebar_label: Modules Index
 ---
 
 ## Main project
