@@ -1,0 +1,16 @@
+email:
+  label: Email
+  permalink: /email
+  description: Email templates, HTML email, and sending
+newsletters:
+  label: Newsletters
+  permalink: /newsletters
+  description: Newsletter craft and lists
+react:
+  label: React
+  permalink: /react
+  description: React components for email
+tools:
+  label: Tools
+  permalink: /tools
+  description: Email marketing tools and resources
