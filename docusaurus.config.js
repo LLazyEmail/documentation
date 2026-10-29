@@ -79,21 +79,41 @@ const config = {
           {
             title: 'Docs',
             items: [
-//               {
-//                 label: 'Intro',
-//                 to: '/docs/intro',
-//               },
+              {
+                label: 'React Design System',
+                to: '/docs/React-Design-System',
+              },
+              {
+                label: 'Glossary',
+                to: '/docs/improvements/glossary',
+              },
+              {
+                label: 'Community links',
+                to: '/docs/community-links',
+              },
             ],
           },
-          // {
-          //   title: 'Community',
-          //   items: [
-          //     {
-          //       label: 'Twitter',
-          //       href: 'https://twitter.com/docusaurus',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/LLazyEmail/documentation',
+              },
+              {
+                label: 'Awesome Email Marketing',
+                href: 'https://github.com/LLazyEmail/awesome-email-marketing',
+              },
+              {
+                label: 'Awesome Newsletters',
+                href: 'https://github.com/LLazyEmail/awesome-newsletters',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/llazyemail/',
+              },
+            ],
+          },
           {
             title: 'More',
             items: [
