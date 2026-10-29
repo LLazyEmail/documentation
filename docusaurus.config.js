@@ -8,7 +8,7 @@ const darkCodeTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'LLazyEmail Documentation',
-  tagline: 'Documentation for LLazyEmail',
+  tagline: 'Email templates, React design system, generators, and project docs for LLazyEmail',
   url: 'https://docs.llazyemail.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
