@@ -1,3 +1,9 @@
+---
+title: Improvements glossary
+description: Historical glossary of terms used in LLazyEmail improvement docs.
+sidebar_label: Glossary (legacy section)
+---
+
 1. [Glossary](#)
  - [Email campaign](#)
  - [Generator](#)
