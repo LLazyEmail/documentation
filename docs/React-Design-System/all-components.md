@@ -1,3 +1,8 @@
+---
+title: All components
+description: Inventory of React email design system components.
+---
+
 Note: might be outdated at some point.
 
 
