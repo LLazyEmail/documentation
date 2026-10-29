@@ -22,6 +22,11 @@ const config = {
   projectName: 'documentation', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
   
   presets: [
     [
