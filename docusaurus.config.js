@@ -153,7 +153,7 @@ const config = {
               },
               {
                 label: 'Community links',
-                to: '/docs/community-links',
+                to: '/docs/awesome-email-marketing',
               },
             ],
           },

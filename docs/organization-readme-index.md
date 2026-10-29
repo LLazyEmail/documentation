@@ -3,12 +3,17 @@ id: llazyemail-readme-documentation
 title: LLazyEmail Documentation
 sidebar_label: Documentation, Main project
 ---
+:::note Legacy HTML comments
+HTML comments in this file were converted to MDX `{/* */}` comments so `future.v4` builds succeed. Content preserved.
+:::
+
+
 
 ## Hi there 👋
 
 ### Documentation: [LLazyEmail Documentation](https://llazyemail.github.io/documentation/)
 
-<!--
+{/*
 
 **Here are some ideas to get you started:**
 
@@ -17,7 +22,7 @@ sidebar_label: Documentation, Main project
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 
--->
+*/}
 
 Email Generator Template Universe
 
