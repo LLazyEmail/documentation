@@ -29,8 +29,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="LLazyEmail Documentation">
+      title="Documentation"
+      description="Email templates, React design system, generators, and project docs for LLazyEmail.">
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
