@@ -49,6 +49,21 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/llazyemail.jpeg',
+      metadata: [
+        {
+          name: 'description',
+          content:
+            'LLazyEmail documentation — email templates, React design system, generators, and project notes.',
+        },
+        {
+          name: 'keywords',
+          content:
+            'LLazyEmail, email templates, React email, newsletter, documentation, Docusaurus',
+        },
+        {property: 'og:type', content: 'website'},
+        {name: 'twitter:card', content: 'summary_large_image'},
+      ],
       navbar: {
         title: 'LLazyEmail Documentation',
         logo: {
