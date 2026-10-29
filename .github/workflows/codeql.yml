@@ -1,5 +1,7 @@
 name: "CodeQL"
 
+# Note: documentation site builds use Node 22 (see test-deploy/deploy). CodeQL remains on its own action versions; shared docs workflows are owned by documentation-actions.
+
 on:
   push:
     branches: [ "main" ]
