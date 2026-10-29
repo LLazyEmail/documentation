@@ -34,6 +34,21 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
+        <section className={styles.sisterSites}>
+          <div className="container">
+            <p>
+              Sister docs sites:{' '}
+              <a href="https://github.com/LLazyEmail/awesome-email-marketing">
+                Awesome Email Marketing
+              </a>
+              {' · '}
+              <a href="https://github.com/LLazyEmail/awesome-newsletters">
+                Awesome Newsletters
+              </a>
+              . Long-term these three Docusaurus sites share one foundation.
+            </p>
+          </div>
+        </section>
       </main>
     </Layout>
   );
