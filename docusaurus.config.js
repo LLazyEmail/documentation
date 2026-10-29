@@ -8,7 +8,7 @@ const darkCodeTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'LLazyEmail Documentation',
-  tagline: 'Documentation for LLazyEmail',
+  tagline: 'Email templates, React design system, generators, and project docs for LLazyEmail',
   url: 'https://docs.llazyemail.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -18,11 +18,42 @@ const config = {
     },
   },
   favicon: 'img/favicon.ico',
+
+  future: {
+    v4: true,
+  },
   organizationName: 'LLazyEmail', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },
   
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap',
+      type: 'text/css',
+    },
+  ],
+
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        language: ['en'],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        docsRouteBasePath: '/docs',
+        indexBlog: true,
+        searchBarShortcutHint: true,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -38,9 +69,17 @@ const config = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/LLazyEmail/documentation/tree/main/',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
         },
       }),
     ],
@@ -49,6 +88,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
+      image: 'img/llazyemail.jpeg',
+      metadata: [
+        {
+          name: 'description',
+          content:
+            'LLazyEmail documentation — email templates, React design system, generators, and project notes.',
+        },
+        {
+          name: 'keywords',
+          content:
+            'LLazyEmail, email templates, React email, newsletter, documentation, Docusaurus',
+        },
+        {property: 'og:type', content: 'website'},
+        {name: 'twitter:card', content: 'summary_large_image'},
+      ],
       navbar: {
         title: 'LLazyEmail Documentation',
         logo: {
@@ -56,16 +113,23 @@ const config = {
           src: 'img/llazyemail.jpeg',
         },
         items: [
-          
           {
-            to: '/blog', 
-            //type: 'doc',
-            //docId: 'intro',
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation Archive',
+            label: 'Docs',
           },
-          
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/LLazyEmail/awesome-email-marketing',
+            label: 'Email Marketing',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/LLazyEmail/awesome-newsletters',
+            label: 'Newsletters',
+            position: 'right',
+          },
           {
             href: 'https://github.com/LLazyEmail/documentation',
             label: 'GitHub',
@@ -79,21 +143,41 @@ const config = {
           {
             title: 'Docs',
             items: [
-//               {
-//                 label: 'Intro',
-//                 to: '/docs/intro',
-//               },
+              {
+                label: 'React Design System',
+                to: '/docs/React-Design-System',
+              },
+              {
+                label: 'Glossary',
+                to: '/docs/improvements/glossary',
+              },
+              {
+                label: 'Community links',
+                to: '/docs/community-links',
+              },
             ],
           },
-          // {
-          //   title: 'Community',
-          //   items: [
-          //     {
-          //       label: 'Twitter',
-          //       href: 'https://twitter.com/docusaurus',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/LLazyEmail/documentation',
+              },
+              {
+                label: 'Awesome Email Marketing',
+                href: 'https://github.com/LLazyEmail/awesome-email-marketing',
+              },
+              {
+                label: 'Awesome Newsletters',
+                href: 'https://github.com/LLazyEmail/awesome-newsletters',
+              },
+              {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/llazyemail/',
+              },
+            ],
+          },
           {
             title: 'More',
             items: [
