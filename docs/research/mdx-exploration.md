@@ -1,4 +1,9 @@
 ---
+title: MDX exploration
+description: Research notes on using MDX in the documentation site.
+---
+
+---
 id: exploration
 title: mdx-exploration
 sidebar_label: task, Mdx bundler, Pros MDX
