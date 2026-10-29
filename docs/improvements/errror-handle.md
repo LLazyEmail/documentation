@@ -1,3 +1,7 @@
+:::note Filename typo (legacy)
+This file is intentionally kept at `errror-handle.md` (three r's) to avoid breaking existing links. Prefer the alias page [Error handling](/docs/improvements/error-handling).
+:::
+
 ## Errors and Validators
 
 
