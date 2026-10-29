@@ -1,3 +1,7 @@
+:::note Legacy
+These stretch goals are kept for historical context. Prefer current trackers under [improvements](./improvements.md) and [future steps](./future-steps.md).
+:::
+
 ---
 sidebar_position: 2
 ---
