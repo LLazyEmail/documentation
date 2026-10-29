@@ -1,3 +1,8 @@
+---
+title: Future steps
+description: Planned next steps for the LLazyEmail documentation and tooling.
+---
+
 **markdown-regex**: доделать тесты или отключить часть тестов
 
 **hn-template **- зафиксиолвасть текущий стейт.поставить защиту на main branch
