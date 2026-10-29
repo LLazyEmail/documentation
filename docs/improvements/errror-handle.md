@@ -11,7 +11,7 @@ https://www.npmjs.com/package/ajv
 
 https://joi.dev/api/?v=17.7.0
 
-We using ow as vslidator right now
+We are using `ow` as a validator right now
 
 
 
