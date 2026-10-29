@@ -12,6 +12,10 @@ Merge this before any other site/package combine. Unblocks `npm ci` lock drift (
 
 **Competing note:** [#333](https://github.com/LLazyEmail/documentation/pull/333) also folds Node 22 + lockfile with documentation-actions adoption. Prefer **#328** for CI-only first; keep adoption in the Blocked section. If you choose #333 instead, skip #328 and reconcile #324/#326.
 
+## 1b. Merge checklist (this file)
+
+- [ ] [#334 docs: add MERGE_ORDER.md (merge checklist source of truth)](https://github.com/LLazyEmail/documentation/pull/334) — can merge anytime after or with #328 (shares CI foundation commits).
+
 ## 2. Package + config + homepage combines (stacked)
 
 - [ ] [#329 chore: combine package.json deps — scripts, search-local, faster](https://github.com/LLazyEmail/documentation/pull/329) — package.json scripts + @easyops-cn/docusaurus-search-local + @docusaurus/faster. Replaces #303, #325, #327. Depends on #328 (shared commits).
