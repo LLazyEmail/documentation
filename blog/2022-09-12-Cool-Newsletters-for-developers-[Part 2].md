@@ -1,3 +1,5 @@
+> **Legacy filename note:** This post's filename contains brackets and a space. Kept for URL continuity.
+
 --- 
 id: Cool Newsletters for developers Part 2
 entitie title: Cool Newsletters for developers Part 2
