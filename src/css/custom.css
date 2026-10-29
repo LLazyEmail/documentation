@@ -1,30 +1,38 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Shared foundation tokens — aligned with sibling LLazyEmail Docusaurus sites.
+ * Legacy Infima greens retained as comments for reference (not deleted).
  */
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #2e6bb2;
+  --ifm-color-primary-dark: #2960a0;
+  --ifm-color-primary-darker: #275b97;
+  --ifm-color-primary-darkest: #204b7c;
+  --ifm-color-primary-light: #3a78bf;
+  --ifm-color-primary-lighter: #447fc3;
+  --ifm-color-primary-lightest: #5f93cd;
   --ifm-code-font-size: 95%;
+  --ifm-font-family-base: "IBM Plex Sans", system-ui, sans-serif;
+  --ifm-font-family-monospace: "IBM Plex Mono", ui-monospace, monospace;
+
+  /* Legacy green palette (previous default) kept for reference:
+     #2e8555 / #25c2a0
+  */
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #5f93cd;
+  --ifm-color-primary-dark: #4a82c2;
+  --ifm-color-primary-darker: #3f78bb;
+  --ifm-color-primary-darkest: #32629a;
+  --ifm-color-primary-light: #74a3d5;
+  --ifm-color-primary-lighter: #84add9;
+  --ifm-color-primary-lightest: #a4c4e4;
 }
 
 .docusaurus-highlight-code-line {
