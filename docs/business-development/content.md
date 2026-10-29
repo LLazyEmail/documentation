@@ -1,3 +1,8 @@
+---
+title: Business development content
+description: Content and BD notes for LLazyEmail.
+---
+
 1. Если у тебя нету рассылки вообще. Мы обсуждаем стратегию. Выбираем или делаем html шаблон.
  Дизайн рисовать мы не будем. 
 
