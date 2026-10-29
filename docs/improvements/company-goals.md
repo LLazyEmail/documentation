@@ -1,3 +1,8 @@
+---
+title: Company goals
+description: High-level company goals related to the LLazyEmail documentation and product.
+---
+
 ### 1. Прибыль за год
 $15k
 
