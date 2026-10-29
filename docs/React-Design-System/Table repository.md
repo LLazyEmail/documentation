@@ -1,3 +1,11 @@
+---
+title: Table repository
+description: Notes on the table component repository for the email design system.
+sidebar_label: Table repository
+---
+
+> **Legacy filename note:** Filename contains a space; kept intentionally.
+
 https://github.com/LLazyEmail/react-email-table
 
 https://llazyemail.github.io/documentation/blog/building-a-design-system-for-email-templates-react
