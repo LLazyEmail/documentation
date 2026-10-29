@@ -1,3 +1,9 @@
+---
+title: Website notes
+description: Current and future notes about the LLazyEmail documentation website.
+sidebar_label: Readme
+---
+
 > Helping businesses to Organize Email Marketing to Achieve Higher ROI
 
 > Helping businesses to organize email marketing in correct way
