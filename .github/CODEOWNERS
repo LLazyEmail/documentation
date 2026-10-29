@@ -1,0 +1,11 @@
+# Default owners for LLazyEmail documentation
+*       @atherdon
+
+/docs/                 @atherdon
+/blog/                 @atherdon
+/src/                  @atherdon
+/docusaurus.config.js  @atherdon
+/sidebars.js           @atherdon
+/package.json          @atherdon
+
+/.github/              @atherdon
