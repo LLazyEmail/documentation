@@ -1,3 +1,9 @@
+---
+title: DevOps
+description: DevOps notes, pipeline tasks, and operational checklist for LLazyEmail.
+sidebar_label: DevOps
+---
+
 # GitOps infrastructure implementation 
 [Task #1027](https://github.com/LLazyEmail/markdown-to-email/discussions/1027)
 
