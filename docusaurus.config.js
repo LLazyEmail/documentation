@@ -56,16 +56,23 @@ const config = {
           src: 'img/llazyemail.jpeg',
         },
         items: [
-          
           {
-            to: '/blog', 
-            //type: 'doc',
-            //docId: 'intro',
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation Archive',
+            label: 'Docs',
           },
-          
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/LLazyEmail/awesome-email-marketing',
+            label: 'Email Marketing',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/LLazyEmail/awesome-newsletters',
+            label: 'Newsletters',
+            position: 'right',
+          },
           {
             href: 'https://github.com/LLazyEmail/documentation',
             label: 'GitHub',
