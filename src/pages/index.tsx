@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import MetricsStrip from '@site/src/components/MetricsStrip';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -32,6 +33,7 @@ export default function Home(): JSX.Element {
       title={`Hello from ${siteConfig.title}`}
       description="LLazyEmail Documentation">
       <HomepageHeader />
+      <MetricsStrip />
       <main>
         {/* <HomepageFeatures /> */}
       </main>
