@@ -10,7 +10,7 @@ Merge this before any other site/package combine. Unblocks `npm ci` lock drift (
 
 - [ ] [#328 chore: combine Node 22 CI foundation (engines, lockfile, workflows)](https://github.com/LLazyEmail/documentation/pull/328) — engines ≥22 + package-lock sync + Node 22 in existing test-deploy/deploy + .nvmrc/.node-version. Replaces #241–#244.
 
-**Competing note:** [#333](https://github.com/LLazyEmail/documentation/pull/333) also folds Node 22 + lockfile with documentation-actions adoption. Prefer **#328** for CI-only first; keep adoption in the Blocked section. If you choose #333 instead, skip #328 and reconcile #324/#326.
+**Note:** Former #333 (actions-worker combine of Node 22 + adoption) is **closed**. Use **#328** for CI; keep #324/#326 in Blocked until documentation-actions is ready.
 
 ## 1b. Merge checklist (this file)
 
