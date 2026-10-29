@@ -18,6 +18,10 @@ const config = {
     },
   },
   favicon: 'img/favicon.ico',
+
+  future: {
+    v4: true,
+  },
   organizationName: 'LLazyEmail', // Usually your GitHub org/user name.
   projectName: 'documentation', // Usually your repo name.
   trailingSlash: false,
