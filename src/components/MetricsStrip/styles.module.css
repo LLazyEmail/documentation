@@ -1,0 +1,39 @@
+.strip {
+  border-block: 1px solid var(--ifm-color-emphasis-200);
+  background: var(--ifm-color-emphasis-100);
+  padding: 1.35rem 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  text-align: center;
+}
+
+.metric {
+  padding: 0.5rem;
+}
+
+.value {
+  display: block;
+  font-size: clamp(1.4rem, calc(1.2rem + 0.8vw), 1.85rem);
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.1;
+  color: var(--ifm-color-primary);
+}
+
+.label {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--ifm-color-content-secondary);
+}
+
+@media screen and (max-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
