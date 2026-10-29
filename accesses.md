@@ -1,3 +1,6 @@
+> **Security note (legacy file):** Do not store passwords, API keys, or tokens in this repository.
+> Historical contact emails below are kept for continuity only. Rotate anything that was ever a real credential and use private channels / a vault going forward. See [SECURITY.md](./SECURITY.md).
+
 # Accesses
 
 - arthur.tkachenko.netweight@gmail.com
