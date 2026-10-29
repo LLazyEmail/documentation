@@ -1,4 +1,9 @@
 ---
+title: Email typography
+description: Typography notes for LLazyEmail React email components.
+---
+
+---
 id: react-typography-module
 title: react-typography
 sidebar_label: react-typography
