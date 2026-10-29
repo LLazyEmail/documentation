@@ -1,3 +1,8 @@
+---
+title: Pipeline
+description: CI/CD and pipeline notes for LLazyEmail repositories.
+---
+
 - хочется build + deploy к пулл реквестам
 
 - хочется делать с помощью модулей, но пока не получилось их правильно orchestrate
