@@ -1,3 +1,7 @@
+:::note Filename typo (legacy)
+This file is intentionally kept at `errror-handle.md` (three r's) to avoid breaking existing links. Prefer the alias page [Error handling](/docs/improvements/error-handling).
+:::
+
 ## Errors and Validators
 
 
@@ -11,7 +15,7 @@ https://www.npmjs.com/package/ajv
 
 https://joi.dev/api/?v=17.7.0
 
-We using ow as vslidator right now
+We are using `ow` as a validator right now
 
 
 
