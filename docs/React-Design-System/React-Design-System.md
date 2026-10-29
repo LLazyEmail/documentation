@@ -1,4 +1,10 @@
 ---
+title: React Design System
+description: Overview of the LLazyEmail React email design system docs.
+sidebar_label: Overview
+---
+
+---
 id: react-main
 title: React Design System
 sidebar_label: React Design System
