@@ -1,3 +1,5 @@
+> **Legacy filename note:** This post's filename contains a space. Kept as-is to preserve URLs; prefer hyphenated names for new posts.
+
 
 Money is on the list. Impossible to deny it. Hang this sentence next to your PC. The newsletter is the best Web Marketing tool that exists. Dario Vignali, one of the best-known web marketing experts, talks about it in-depth in some posts and writes:
 
