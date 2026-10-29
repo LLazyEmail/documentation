@@ -6,7 +6,7 @@ const metrics = [
   {value: '6+', label: 'Doc sections', to: '/docs/React-Design-System'},
   {value: '20+', label: 'Blog posts', to: '/blog'},
   {value: '1', label: 'Glossary', to: '/docs/improvements/glossary'},
-  {value: '3', label: 'Sister sites', to: '/docs/community-links'},
+  {value: '3', label: 'Sister sites', to: '/docs/Awesome-email-marketing'}, // community-links page lands via #245
 ];
 
 export default function MetricsStrip(): React.ReactElement {
