@@ -9,7 +9,7 @@ on:
 
 jobs:
   deploy:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@v1
     with:
       working-directory: .
       cache-dependency-path: package-lock.json
