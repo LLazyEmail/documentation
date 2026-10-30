@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocumentation||=[]).push([[9067],{9187(e){e.exports=JSON.parse('{"tags":[{"label":"MTE","permalink":"/docs/tags/mte","count":1},{"label":"mdx","permalink":"/docs/tags/mdx","count":1},{"label":"templates","permalink":"/docs/tags/templates","count":1},{"label":"features","permalink":"/docs/tags/features","count":1}]}')}}]);
