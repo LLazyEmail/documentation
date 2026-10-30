@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import MetricsStrip from '@site/src/components/MetricsStrip';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -17,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/React-Design-System">
-            React-Design-System
+            Browse docs
           </Link>
         </div>
       </div>
@@ -26,14 +27,29 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="LLazyEmail Documentation">
+      title="Documentation"
+      description="Email templates, React design system, generators, and project docs for LLazyEmail.">
       <HomepageHeader />
+      <MetricsStrip />
       <main>
-        {/* <HomepageFeatures /> */}
+        <HomepageFeatures />
+        <section className={styles.sisterSites}>
+          <div className="container">
+            <p>
+              Sister docs sites:{' '}
+              <a href="https://github.com/LLazyEmail/awesome-email-marketing">
+                Awesome Email Marketing
+              </a>
+              {' · '}
+              <a href="https://github.com/LLazyEmail/awesome-newsletters">
+                Awesome Newsletters
+              </a>
+              . Long-term these three Docusaurus sites share one foundation.
+            </p>
+          </div>
+        </section>
       </main>
     </Layout>
   );
