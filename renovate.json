@@ -1,5 +1,30 @@
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:recommended"
+  ],
+  "labels": ["dependencies"],
+  "timezone": "Europe/Kyiv",
+  "schedule": ["before 6am on monday"],
+  "packageRules": [
+    {
+      "matchManagers": ["npm"],
+      "matchFileNames": ["package.json"],
+      "groupName": "documentation npm dependencies"
+    },
+    {
+      "matchDepTypes": ["devDependencies"],
+      "matchPackageNames": ["@docusaurus/**"],
+      "groupName": "docusaurus"
+    },
+    {
+      "description": "Automerge patch/minor updates for npm devDependencies",
+      "matchManagers": ["npm"],
+      "matchDepTypes": ["devDependencies"],
+      "matchUpdateTypes": ["patch", "minor"],
+      "automerge": true,
+      "automergeType": "pr",
+      "platformAutomerge": true
+    }
   ]
 }

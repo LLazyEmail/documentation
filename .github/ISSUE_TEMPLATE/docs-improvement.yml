@@ -1,0 +1,35 @@
+name: Docs improvement
+description: Propose a fix or addition to the documentation site
+title: "docs: "
+labels: ["docs"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Prefer a small PR when you can. Use this form for ideas that need discussion first.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of change?
+      options:
+        - Fix typo / grammar
+        - Fix broken link
+        - Add missing frontmatter / description
+        - New docs page
+        - Sidebar / navigation
+        - Homepage / theme
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What should change and why?
+    validations:
+      required: true
+  - type: input
+    id: path
+    attributes:
+      label: Relevant path (optional)
+      placeholder: docs/improvements/glossary.md
