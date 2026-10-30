@@ -15,7 +15,7 @@ Internal and public-facing documentation for the LLazyEmail email stack: React d
 - [React Design System](/docs/React-Design-System)
 - [Markdown to email](/docs/markdown-to-email)
 - [Improvements glossary](/docs/improvements/glossary)
-- [Organization repositories index](/docs/organization-readme-index)
+- [Organization repositories index](/docs/llazyemail-readme-documentation)
 - [Community & sister repos](/docs/community-links)
 
 ## Sister sites
