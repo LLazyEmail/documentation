@@ -13,6 +13,13 @@ HTML comments in this file were converted to MDX `{/* */}` comments so `future.v
 
 ### Documentation: [LLazyEmail Documentation](https://llazyemail.github.io/documentation/)
 
+### Sister Docusaurus sites
+
+- [Awesome Email Marketing](https://github.com/LLazyEmail/awesome-email-marketing)
+- [Awesome Newsletters](https://github.com/LLazyEmail/awesome-newsletters)
+- [documentation-actions](https://github.com/LLazyEmail/documentation-actions)
+
+
 {/*
 
 **Here are some ideas to get you started:**
