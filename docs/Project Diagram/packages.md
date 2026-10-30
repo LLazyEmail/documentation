@@ -3,14 +3,19 @@ id: project-diagram-packages
 title: Markdown-to-Email-Project-Diagram
 sidebar_label: Project Diagram
 ---
+:::note Legacy HTML comments
+HTML comments in this file were converted to MDX `{/* */}` comments so `future.v4` builds succeed. Content preserved.
+:::
+
+
 
 
 ![MTE Packages](https://raw.githubusercontent.com/LLazyEmail/creative/main/MTEPackages.png)
 
 
-<!-- [Purpose](#purpose) -->
+{/* [Purpose](#purpose) */}
 
-<!-- [Scope](#scope) -->
+{/* [Scope](#scope) */}
 
 [Packages inside Markdown to Email/domain folder](#packages-inside-mtedomain-folder)
 
