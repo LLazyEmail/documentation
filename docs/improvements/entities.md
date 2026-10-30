@@ -1,6 +1,7 @@
 ---
 id: entitie
 title: entities
+description: Domain entities discussed in LLazyEmail improvement docs.
 sidebar_label: Template, Callback, Object typography replacer, Реорганизация
 ---
 
