@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.llazyemail.com/blog</id>
     <title>LLazyEmail Documentation Blog</title>
-    <updated>2026-10-30T10:58:55.000Z</updated>
+    <updated>2026-10-30T11:03:54.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.llazyemail.com/blog"/>
     <subtitle>LLazyEmail Documentation Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Articles Articles]]></title>
         <id>https://docs.llazyemail.com/blog/articles-archive</id>
         <link href="https://docs.llazyemail.com/blog/articles-archive"/>
-        <updated>2026-10-30T10:58:55.000Z</updated>
+        <updated>2026-10-30T11:03:54.000Z</updated>
         <summary type="html"><![CDATA[Arthur Tkachenko articles]]></summary>
         <content type="html"><![CDATA[<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="arthur-tkachenko-articles">Arthur Tkachenko articles<a href="https://docs.llazyemail.com/blog/articles-archive#arthur-tkachenko-articles" class="hash-link" aria-label="Direct link to Arthur Tkachenko articles" title="Direct link to Arthur Tkachenko articles" translate="no">​</a></h4>
 <ul>
@@ -286,9 +286,21 @@
         <id>https://docs.llazyemail.com/blog/2022/09/12/Cool-Newsletters-for-developers-[Part 2]</id>
         <link href="https://docs.llazyemail.com/blog/2022/09/12/Cool-Newsletters-for-developers-[Part 2]"/>
         <updated>2022-09-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Cool Newsletters for developers [Part 1]]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://dev.to/atherdon/cool-newsletters-for-developers-part-1-4f93" target="_blank" rel="noopener noreferrer" class="">Cool Newsletters for developers [Part 1]
+        <summary type="html"><![CDATA[Legacy filename note: This post's filename contains brackets and a space. Kept for URL continuity.]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>Legacy filename note:</strong> This post's filename contains brackets and a space. Kept for URL continuity.</p>
+</blockquote>
+<hr>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="id-cool-newsletters-for-developers-part-2entitie-title-cool-newsletters-for-developers-part-2sidebar_label-newsletters-for-developers-part-2">id: Cool Newsletters for developers Part 2
+entitie title: Cool Newsletters for developers Part 2
+sidebar_label: Newsletters for developers Part 2<a href="https://docs.llazyemail.com/blog/2022/09/12/Cool-Newsletters-for-developers-[Part%202]#id-cool-newsletters-for-developers-part-2entitie-title-cool-newsletters-for-developers-part-2sidebar_label-newsletters-for-developers-part-2" class="hash-link" aria-label="Direct link to id: Cool Newsletters for developers Part 2
+entitie title: Cool Newsletters for developers Part 2
+sidebar_label: Newsletters for developers Part 2" title="Direct link to id: Cool Newsletters for developers Part 2
+entitie title: Cool Newsletters for developers Part 2
+sidebar_label: Newsletters for developers Part 2" translate="no">​</a></h2>
+<p><a href="https://dev.to/atherdon/cool-newsletters-for-developers-part-1-4f93" target="_blank" rel="noopener noreferrer" class="">Cool Newsletters for developers [Part 1]
 </a></p>
+<h1>React</h1>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="reactjs-newsletter">ReactJS Newsletter<a href="https://docs.llazyemail.com/blog/2022/09/12/Cool-Newsletters-for-developers-[Part%202]#reactjs-newsletter" class="hash-link" aria-label="Direct link to ReactJS Newsletter" title="Direct link to ReactJS Newsletter" translate="no">​</a></h3>
 <p>weekly newsletter of React.js news and articles</p>
 <p><a href="https://reactnewsletter.com/" target="_blank" rel="noopener noreferrer" class="">https://reactnewsletter.com/</a></p>
@@ -388,8 +400,11 @@
         <id>https://docs.llazyemail.com/blog/2022/08/30/сool-resources-for-sending-emails</id>
         <link href="https://docs.llazyemail.com/blog/2022/08/30/сool-resources-for-sending-emails"/>
         <updated>2022-08-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cool resources for sending emails]]></summary>
-        <content type="html"><![CDATA[<p>Cool resources for sending emails</p>
+        <summary type="html"><![CDATA[Legacy filename note: This post's filename uses a Cyrillic 'с' in 'сool'. Kept to preserve links; do not delete. A future alias post may be added with an ASCII name.]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>Legacy filename note:</strong> This post's filename uses a Cyrillic 'с' in 'сool'. Kept to preserve links; do not delete. A future alias post may be added with an ASCII name.</p>
+</blockquote>
+<p>Cool resources for sending emails</p>
 <p>Today I find out that I have a lot of opened tabs, related to emails.</p>
 <p>Let's close them and collect some important notes.</p>
 <p>A few tips for those who send cold emails. 🔥 Specifically, our best practices to avoid being trapped by spam filters and reach more prospects with your campaigns.</p>
@@ -705,8 +720,11 @@
         <id>https://docs.llazyemail.com/blog/2022/08/23/ Tested Ways to Increase Your Newsletter Subscribers</id>
         <link href="https://docs.llazyemail.com/blog/2022/08/23/ Tested Ways to Increase Your Newsletter Subscribers"/>
         <updated>2022-08-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Money is on the list. Impossible to deny it. Hang this sentence next to your PC. The newsletter is the best Web Marketing tool that exists. Dario Vignali, one of the best-known web marketing experts, talks about it in-depth in some posts and writes:]]></summary>
-        <content type="html"><![CDATA[<p>Money is on the list. Impossible to deny it. Hang this sentence next to your PC. The newsletter is the best Web Marketing tool that exists. Dario Vignali, one of the best-known web marketing experts, talks about it in-depth in some posts and writes:</p>
+        <summary type="html"><![CDATA[Legacy filename note: This post's filename contains a space. Kept as-is to preserve URLs; prefer hyphenated names for new posts.]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>Legacy filename note:</strong> This post's filename contains a space. Kept as-is to preserve URLs; prefer hyphenated names for new posts.</p>
+</blockquote>
+<p>Money is on the list. Impossible to deny it. Hang this sentence next to your PC. The newsletter is the best Web Marketing tool that exists. Dario Vignali, one of the best-known web marketing experts, talks about it in-depth in some posts and writes:</p>
 <p><em>"If tomorrow I had to choose between the blog or the newsletter, I would choose the newsletter without a shadow of a doubt. With the Newsletter, I just need to create a new blog and notify my subscribers to generate results."</em></p>
 <p>Acquiring contacts from visitors to a site also means acquiring potential customers (lead generation). The newsletter can bring traffic wherever you want and therefore also generates more sales than any other marketing tool.</p>
 <p>However, before you can send mail you need people to subscribe to the newsletter.</p>
