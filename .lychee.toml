@@ -1,0 +1,5 @@
+# Link-check defaults for when documentation-actions lychee workflow is adopted.
+timeout = 20
+max_concurrency = 8
+accept = ["200", "429"]
+exclude_all_private = true
