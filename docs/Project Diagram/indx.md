@@ -1,3 +1,7 @@
+:::caution Legacy duplicate filename
+This file (`indx.md`) is a historical duplicate spelling of [`index.md`](./index.md). Both are kept; prefer `index.md` for new links.
+:::
+
 ---
 id: llazyemail-code-organization-index
 title: Repositories Index
