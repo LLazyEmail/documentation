@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[2191],{8770:a=>{a.exports=JSON.parse('{"label":"email marketing","permalink":"/blog/tags/email-marketing","allTagsPath":"/blog/tags","count":1}')}}]);
