@@ -1,12 +1,7 @@
 ---
-title: Improvements tracker
-description: Long-running improvement tasks and notes for the LLazyEmail stack.
-sidebar_label: Improvements
----
-
----
 id: improvements
 title: improvements
+description: Long-running improvement tasks and notes for the LLazyEmail stack.
 sidebar_label: improvements
 ---
 
