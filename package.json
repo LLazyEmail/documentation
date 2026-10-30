@@ -12,7 +12,9 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "ci:typecheck": "tsc --noEmit",
+    "docs:lint": "echo \"markdownlint workflow will come from documentation-actions\""
   },
   "dependencies": {
     "@docusaurus/core": "3.10.2",
@@ -21,7 +23,9 @@
     "clsx": "^2.1.0",
     "prism-react-renderer": "^2.3.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "@easyops-cn/docusaurus-search-local": "^0.55.3",
+    "@docusaurus/faster": "^3.10.2"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.10.2",
