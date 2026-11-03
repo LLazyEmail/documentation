@@ -20,7 +20,7 @@ Manual starting inventory. A generated index (and its workflow) will be adopted 
 - [DevOps](/docs/devops)
 - [Business development](/docs/business-development/content)
 - [Website notes](/docs/website)
-- [Project diagram](/docs/Project%20Diagram)
+- [Project diagram](/docs/project-diagram)
 - [Templates](/docs/templates/everything)
 - [Research](/docs/research/exploration)
 - [Community links](/docs/community-links)
