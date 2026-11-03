@@ -63,8 +63,8 @@ const config = {
           // Populated by documentation reorganization PRs (see issue #342).
           // PR 05: React-Design-System → react-design-system; \`to\` uses front-matter ids.
           { from: '/docs/React-Design-System', to: '/docs/react-design-system' },
-          { from: '/docs/React-Design-System/React-Design-System', to: '/docs/react-design-system/react-main' },
-          { from: '/docs/React-Design-System/react-main', to: '/docs/react-design-system/react-main' },
+          { from: '/docs/React-Design-System/React-Design-System', to: '/docs/react-design-system' },
+          { from: '/docs/React-Design-System/react-main', to: '/docs/react-design-system' },
           { from: '/docs/React-Design-System/all-components', to: '/docs/react-design-system/all-components' },
           { from: '/docs/React-Design-System/clone-template', to: '/docs/react-design-system/clone-template' },
           { from: '/docs/React-Design-System/email-typography', to: '/docs/react-design-system/email-typography' },
