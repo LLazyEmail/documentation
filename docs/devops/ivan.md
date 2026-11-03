@@ -1,7 +1,8 @@
 ---
-id: tasks
+id: devops-ivan-tasks
 title: ivan-tasks
-sidebar_label: tasks 
+sidebar_label: tasks
+slug: /tasks
 ---
 
 # Tabel of content

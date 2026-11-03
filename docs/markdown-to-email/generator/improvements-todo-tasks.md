@@ -1,7 +1,8 @@
 ---
-id: markdown-to-email repository
+id: markdown-to-email-repository
 title: markdown-to-email repository simple tags with todo attribute
 sidebar_label: task
+slug: /markdown-to-email repository
 ---
 
 ## Table of Contents
