@@ -3,7 +3,7 @@ id: react-main
 title: React Design System
 description: Overview of the LLazyEmail React email design system docs.
 sidebar_label: React Design System
-slug: /React-Design-System/React-Design-System
+slug: /React-Design-System
 ---
 
 ### React Design System
