@@ -94,15 +94,17 @@ const config = {
           { from: '/docs/Email Templates/nx', to: '/docs/email-templates/nx' },
           { from: '/docs/Email%20Templates/process', to: '/docs/email-templates/process' },
           { from: '/docs/Email Templates/process', to: '/docs/email-templates/process' },
-          // Folder rename Project Diagram → project-diagram
+          // Folder rename Project Diagram → project-diagram — targets use real routes (index.md → category URL; packages id).
           { from: '/docs/Project%20Diagram', to: '/docs/project-diagram' },
           { from: '/docs/Project Diagram', to: '/docs/project-diagram' },
-          { from: '/docs/Project%20Diagram/index', to: '/docs/project-diagram/index' },
-          { from: '/docs/Project Diagram/index', to: '/docs/project-diagram/index' },
+          { from: '/docs/Project%20Diagram/index', to: '/docs/project-diagram' },
+          { from: '/docs/Project Diagram/index', to: '/docs/project-diagram' },
           { from: '/docs/Project%20Diagram/indx', to: '/docs/project-diagram/indx' },
           { from: '/docs/Project Diagram/indx', to: '/docs/project-diagram/indx' },
-          { from: '/docs/Project%20Diagram/packages', to: '/docs/project-diagram/packages' },
-          { from: '/docs/Project Diagram/packages', to: '/docs/project-diagram/packages' },
+          { from: '/docs/Project%20Diagram/project-diagram-packages', to: '/docs/project-diagram/project-diagram-packages' },
+          { from: '/docs/Project Diagram/project-diagram-packages', to: '/docs/project-diagram/project-diagram-packages' },
+          { from: '/docs/Project%20Diagram/packages', to: '/docs/project-diagram/project-diagram-packages' },
+          { from: '/docs/Project Diagram/packages', to: '/docs/project-diagram/project-diagram-packages' },
 
         ],
       },
