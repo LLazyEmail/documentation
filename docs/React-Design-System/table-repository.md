@@ -2,6 +2,7 @@
 title: Table repository
 description: Notes on the table component repository for the email design system.
 sidebar_label: Table repository
+slug: /React-Design-System/Table repository
 ---
 
 > **Legacy filename note:** Filename contains a space; kept intentionally.
