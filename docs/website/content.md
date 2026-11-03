@@ -1,3 +1,9 @@
+---
+title: Content
+description: website — Content.
+sidebar_label: Content
+---
+
 It's hard to handle email marketing initiatives with small department, i get it.
 We have an experience of operating email marketing team and setting technical solutions that help to implement it.
 
