@@ -83,8 +83,11 @@ const config = {
           // Folder rename Email Templates → email-templates. Targets use front-matter ids.
           { from: '/docs/Email%20Templates', to: '/docs/email-templates' },
           { from: '/docs/Email Templates', to: '/docs/email-templates' },
-          { from: '/docs/Email%20Templates/email-templates-schemes', to: '/docs/email-templates/email-templates-schemes' },
-          { from: '/docs/Email Templates/email-templates-schemes', to: '/docs/email-templates/email-templates-schemes' },
+          // readme.md is the category index → /docs/email-templates (id is for sidebar only)
+          { from: '/docs/Email%20Templates/email-templates-schemes', to: '/docs/email-templates' },
+          { from: '/docs/Email Templates/email-templates-schemes', to: '/docs/email-templates' },
+          { from: '/docs/Email%20Templates/readme', to: '/docs/email-templates' },
+          { from: '/docs/Email Templates/readme', to: '/docs/email-templates' },
           { from: '/docs/Email%20Templates/order-details-schemes', to: '/docs/email-templates/order-details-schemes' },
           { from: '/docs/Email Templates/order-details-schemes', to: '/docs/email-templates/order-details-schemes' },
           { from: '/docs/Email%20Templates/nx', to: '/docs/email-templates/nx' },
