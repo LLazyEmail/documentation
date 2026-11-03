@@ -78,7 +78,7 @@ const config = {
           { from: '/docs/React-Design-System/remix-templates', to: '/docs/react-design-system/remix-templates' },
           { from: '/docs/React-Design-System/template-repository', to: '/docs/react-design-system/react-template-module' },
           { from: '/docs/React-Design-System/react-template-module', to: '/docs/react-design-system/react-template-module' },
-          { from: '/docs/React-Design-System/Table%20repository', to: '/docs/react-design-system/Table%20repository' },
+          { from: '/docs/React-Design-System/Table%20repository', to: '/docs/react-design-system/Table repository' },
           { from: '/docs/React-Design-System/Table repository', to: '/docs/react-design-system/Table repository' },
         ],
       },
