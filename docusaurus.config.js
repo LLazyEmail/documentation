@@ -80,17 +80,18 @@ const config = {
           { from: '/docs/React-Design-System/react-template-module', to: '/docs/react-design-system/react-template-module' },
           { from: '/docs/React-Design-System/Table%20repository', to: '/docs/react-design-system/Table repository' },
           { from: '/docs/React-Design-System/Table repository', to: '/docs/react-design-system/Table repository' },
-          // PR 03: Email Templates → email-templates
+          // Folder rename Email Templates → email-templates. Targets use front-matter ids.
           { from: '/docs/Email%20Templates', to: '/docs/email-templates' },
           { from: '/docs/Email Templates', to: '/docs/email-templates' },
-          { from: '/docs/Email%20Templates/readme', to: '/docs/email-templates/readme' },
-          { from: '/docs/Email Templates/readme', to: '/docs/email-templates/readme' },
-          { from: '/docs/Email%20Templates/components', to: '/docs/email-templates/components' },
-          { from: '/docs/Email Templates/components', to: '/docs/email-templates/components' },
+          { from: '/docs/Email%20Templates/email-templates-schemes', to: '/docs/email-templates/email-templates-schemes' },
+          { from: '/docs/Email Templates/email-templates-schemes', to: '/docs/email-templates/email-templates-schemes' },
+          { from: '/docs/Email%20Templates/order-details-schemes', to: '/docs/email-templates/order-details-schemes' },
+          { from: '/docs/Email Templates/order-details-schemes', to: '/docs/email-templates/order-details-schemes' },
           { from: '/docs/Email%20Templates/nx', to: '/docs/email-templates/nx' },
           { from: '/docs/Email Templates/nx', to: '/docs/email-templates/nx' },
           { from: '/docs/Email%20Templates/process', to: '/docs/email-templates/process' },
           { from: '/docs/Email Templates/process', to: '/docs/email-templates/process' },
+
         ],
       },
     ],
