@@ -1,17 +1,13 @@
 ---
-slug: cool-resources-for-sending-emails
-title: Cool resources for sending emails
-authors:
-  name: Arthur Tkachenko
-  title: Core Team
-  url: https://github.com/atherdon
-  image_url: https://github.com/atherdon.png
-tags: [hola, docusaurus]
+slug: /2022/08/30/cool-resources-for-sending-emails
 ---
 
+> **Legacy filename note:** This post's filename uses a Cyrillic 'с' in 'сool'. Kept to preserve links; do not delete. A future alias post may be added with an ASCII name.
+
+Cool resources for sending emails
 
 
-  Today I find out that I have a lot of opened tabs, related to emails.
+ Today I find out that I have a lot of opened tabs, related to emails.
 
   Let's close them and collect some important notes.
 
@@ -36,9 +32,6 @@ tags: [hola, docusaurus]
 [https://www.freecodecamp.org/news/how-to-build-a-working-contact-form-with-sendgrid-and-next-js/](https://www.freecodecamp.org/news/how-to-build-a-working-contact-form-with-sendgrid-and-next-js/).
 
   Great articles from EmailOctopus:
-
-
-
 * [https://blog.emailoctopus.com/10-powerful-conversion-tips-for-a-better-newsletter-landing-page/](https://blog.emailoctopus.com/10-powerful-conversion-tips-for-a-better-newsletter-landing-page/)
 * [https://blog.emailoctopus.com/how-to-write-a-great-welcome-email/](https://blog.emailoctopus.com/how-to-write-a-great-welcome-email/)
 * [https://blog.emailoctopus.com/5-common-email-marketing-problems-and-how-to-solve-them/](https://blog.emailoctopus.com/5-common-email-marketing-problems-and-how-to-solve-them/)
@@ -49,8 +42,6 @@ tags: [hola, docusaurus]
 * [https://blog.emailoctopus.com/fool-proof-ways-to-optimize-your-email-sign-up-form-capture-more-leads/](https://blog.emailoctopus.com/fool-proof-ways-to-optimize-your-email-sign-up-form-capture-more-leads/)
 
   Free tools from Mail Meteor
-
-
 
 * [https://mailmeteor.com/spam-checker](https://mailmeteor.com/spam-checker)
 * [https://mailmeteor.com/email-checker](https://mailmeteor.com/email-checker)
@@ -75,14 +66,13 @@ tags: [hola, docusaurus]
 
   A great tool that I recently find: [https://www.mailkitchen.com/](https://www.mailkitchen.com/)
 
-
-
 * [https://www.drip.com/blog/ecommerce/transactional-email-examples](https://www.drip.com/blog/ecommerce/transactional-email-examples)
 * [https://www.drip.com/blog/ecommerce/forward-to-a-friend-email-examples](https://www.drip.com/blog/ecommerce/forward-to-a-friend-email-examples)
 * [https://www.drip.com/blog/ecommerce-marketing/brand-development](https://www.drip.com/blog/ecommerce-marketing/brand-development)
 * [https://www.drip.com/blog/email-marketing/drip-campaign-examples](https://www.drip.com/blog/email-marketing/drip-campaign-examples)
-* [https://www.drip.com/blog/ecommerce/how-to-use-popups \
-](https://www.drip.com/blog/ecommerce/how-to-use-popups)  Automizy did a great job, by touching important topics
+* [https://www.drip.com/blog/ecommerce/how-to-use-popups](https://www.drip.com/blog/ecommerce/how-to-use-popups)  
+
+### Automizy did a great job, by touching important topics
 * [https://automizy.com/blog/saas-marketing-tools/](https://automizy.com/blog/saas-marketing-tools/)
 * [https://automizy.com/blog/email-call-to-action/](https://automizy.com/blog/email-call-to-action/)
 * [https://automizy.com/blog/saas-marketing/](https://automizy.com/blog/saas-marketing/)
@@ -93,4 +83,4 @@ tags: [hola, docusaurus]
 * [https://automizy.com/blog/drip-email-campaign-examples/](https://automizy.com/blog/drip-email-campaign-examples/)
 
 
-#### [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
