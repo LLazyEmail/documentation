@@ -10,4 +10,5 @@ Place superseded docs here instead of deleting them.
 
 This folder starts empty of legacy pages; use it when restructuring.
 
-- \`tasks-template.md\` — former root issue-form draft (moved from \`tasks template.md\`).
+- `tasks-template.md` — former root issue-form draft (moved from `tasks template.md`).
+- `accesses.md` — former root access notes (do not expand credentials).
