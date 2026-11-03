@@ -1,3 +1,5 @@
+<!-- Archived from repo root \`tasks template.md\` during docs reorg (#342 PR 10). Content preserved. -->
+
 > **Legacy:** Historical issue-form scratch table. Prefer `.github/ISSUE_TEMPLATE/` forms. Kept for archive continuity (not deleted).
 
 ---
