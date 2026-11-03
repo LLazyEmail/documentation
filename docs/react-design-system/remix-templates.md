@@ -1,3 +1,9 @@
+---
+title: Remix Templates
+description: Remix Templates documentation notes.
+sidebar_label: Remix Templates
+---
+
 As i tried to make our as modular as possible, i wanted to try our small components on a few real-live cases
 
 it was helpful, because you can't solve everything without making it modular and containing as small as possible blocks for building.

@@ -1,3 +1,9 @@
+---
+title: Frameworks
+description: Frameworks documentation notes.
+sidebar_label: Frameworks
+---
+
 ## Perspective Email Frameworks, based on React
 
 Pros: Most up-to date code
