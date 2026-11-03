@@ -13,7 +13,7 @@ Manual starting inventory. A generated index (and its workflow) will be adopted 
 
 - [Overview](/docs/)
 - [Glossary](/docs/glossary)
-- [React Design System](/docs/React-Design-System)
+- [React Design System](/docs/react-design-system)
 - [Generator](/docs/generator/markdown-to-html)
 - [Markdown to email](/docs/markdown-to-email)
 - [Improvements](/docs/improvements)

@@ -61,6 +61,20 @@ const config = {
       {
         redirects: [
           // Populated by documentation reorganization PRs (see issue #342).
+          // PR 05 react-design-system
+          { from: '/docs/react-design-system', to: '/docs/react-design-system' },
+          { from: '/docs/react-design-system/React-Design-System', to: '/docs/react-design-system/React-Design-System' },
+          { from: '/docs/react-design-system/all-components', to: '/docs/react-design-system/all-components' },
+          { from: '/docs/react-design-system/clone-template', to: '/docs/react-design-system/clone-template' },
+          { from: '/docs/react-design-system/email-typography', to: '/docs/react-design-system/email-typography' },
+          { from: '/docs/react-design-system/frameworks', to: '/docs/react-design-system/frameworks' },
+          { from: '/docs/react-design-system/misc', to: '/docs/react-design-system/misc' },
+          { from: '/docs/react-design-system/react-table', to: '/docs/react-design-system/react-table' },
+          { from: '/docs/react-design-system/react-todo-tasks', to: '/docs/react-design-system/react-todo-tasks' },
+          { from: '/docs/react-design-system/remix-templates', to: '/docs/react-design-system/remix-templates' },
+          { from: '/docs/react-design-system/template-repository', to: '/docs/react-design-system/template-repository' },
+          { from: '/docs/react-design-system/Table%20repository', to: '/docs/react-design-system/Table%20repository' },
+          { from: '/docs/react-design-system/Table repository', to: '/docs/react-design-system/Table repository' },
         ],
       },
     ],
@@ -157,7 +171,7 @@ const config = {
             items: [
               {
                 label: 'React Design System',
-                to: '/docs/React-Design-System',
+                to: '/docs/react-design-system',
               },
               {
                 label: 'Glossary',
