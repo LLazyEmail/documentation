@@ -1,3 +1,10 @@
+---
+title: Email templates NX notes
+description: Email templates NX notes for LLazyEmail documentation.
+sidebar_label: NX
+sidebar_position: 3
+---
+
 nx может решить одну из проблем, тк. мі можем продолжить иметь modular structure и при єто делать билды и фиксить но startup is quite tricky i need both TS & JS and first version was better. Even while I must sacrify some stuff.
 
 But things moving fowrad and i'm soon will be able to complete current template that i'm woking on.
