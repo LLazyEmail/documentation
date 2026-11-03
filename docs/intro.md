@@ -12,6 +12,7 @@ Internal and public-facing documentation for the LLazyEmail email stack: React d
 
 ## Start here
 
+- [Getting started](/docs/getting-started)
 - [React Design System](/docs/react-design-system)
 - [Markdown to email](/docs/markdown-to-email)
 - [Improvements glossary](/docs/improvements/glossary)
