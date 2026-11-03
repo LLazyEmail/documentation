@@ -54,6 +54,18 @@ const config = {
     ],
   ],
 
+  // Reorg (#342): client-side redirects for path renames. Entries added in later PRs.
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          // Populated by documentation reorganization PRs (see issue #342).
+        ],
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
