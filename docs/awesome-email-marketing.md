@@ -1,5 +1,6 @@
 ---
 id: awesome-email-marketing
+slug: /awesome-email-marketing
 title: Awesome Email Marketing
 description: Pointer to the Awesome Email Marketing sister list.
 sidebar_label: Email Tools
