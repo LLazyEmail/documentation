@@ -61,7 +61,7 @@ const config = {
       {
         redirects: [
           // Populated by documentation reorganization PRs (see issue #342).
-          // PR 05: React-Design-System → react-design-system; \`to\` uses front-matter ids.
+          // PR 05: React-Design-System → react-design-system; `to` uses front-matter ids.
           { from: '/docs/React-Design-System', to: '/docs/react-design-system' },
           { from: '/docs/React-Design-System/React-Design-System', to: '/docs/react-design-system' },
           { from: '/docs/React-Design-System/react-main', to: '/docs/react-design-system' },
@@ -80,6 +80,21 @@ const config = {
           { from: '/docs/React-Design-System/react-template-module', to: '/docs/react-design-system/react-template-module' },
           { from: '/docs/React-Design-System/Table%20repository', to: '/docs/react-design-system/Table repository' },
           { from: '/docs/React-Design-System/Table repository', to: '/docs/react-design-system/Table repository' },
+          // Folder rename Email Templates → email-templates. Targets use front-matter ids.
+          { from: '/docs/Email%20Templates', to: '/docs/email-templates' },
+          { from: '/docs/Email Templates', to: '/docs/email-templates' },
+          // readme.md is the category index → /docs/email-templates (id is for sidebar only)
+          { from: '/docs/Email%20Templates/email-templates-schemes', to: '/docs/email-templates' },
+          { from: '/docs/Email Templates/email-templates-schemes', to: '/docs/email-templates' },
+          { from: '/docs/Email%20Templates/readme', to: '/docs/email-templates' },
+          { from: '/docs/Email Templates/readme', to: '/docs/email-templates' },
+          { from: '/docs/Email%20Templates/order-details-schemes', to: '/docs/email-templates/order-details-schemes' },
+          { from: '/docs/Email Templates/order-details-schemes', to: '/docs/email-templates/order-details-schemes' },
+          { from: '/docs/Email%20Templates/nx', to: '/docs/email-templates/nx' },
+          { from: '/docs/Email Templates/nx', to: '/docs/email-templates/nx' },
+          { from: '/docs/Email%20Templates/process', to: '/docs/email-templates/process' },
+          { from: '/docs/Email Templates/process', to: '/docs/email-templates/process' },
+
         ],
       },
     ],
