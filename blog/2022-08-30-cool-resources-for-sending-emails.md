@@ -1,3 +1,7 @@
+---
+slug: /2022/08/30/cool-resources-for-sending-emails
+---
+
 > **Legacy filename note:** This post's filename uses a Cyrillic 'с' in 'сool'. Kept to preserve links; do not delete. A future alias post may be added with an ASCII name.
 
 Cool resources for sending emails
