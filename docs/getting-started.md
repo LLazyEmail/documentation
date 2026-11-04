@@ -38,3 +38,7 @@ Requires **Node 22+** (see `.nvmrc` and `package.json` engines).
 - [Overview](/docs/)
 - [Contributing](/docs/contributing)
 - [Community links](/docs/community-links)
+
+## Content policy
+
+Do not delete docs pages. Prefer `archive/` or legacy stubs — see `AGENTS.md` and issue #342.
