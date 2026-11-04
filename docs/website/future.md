@@ -1,6 +1,6 @@
 ---
 title: Website future notes (legacy)
-description: Stub for historical marketing/competitor research notes; full body archived.
+description: Stub for historical marketing/competitor research notes; full body archived. (FM from #342 PR 35)
 sidebar_label: Future (legacy)
 ---
 
