@@ -2,6 +2,7 @@
 id: llazyemail-readme-documentation
 title: LLazyEmail Documentation
 sidebar_label: Documentation, Main project
+slug: /llazyemail-readme-documentation
 ---
 :::note Legacy HTML comments
 HTML comments in this file were converted to MDX `{/* */}` comments so `future.v4` builds succeed. Content preserved.
