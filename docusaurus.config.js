@@ -178,6 +178,8 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
+          {to: '/docs/getting-started', label: 'Getting started', position: 'left'},
+          {to: '/docs/glossary', label: 'Glossary', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/LLazyEmail/awesome-email-marketing',
@@ -203,12 +205,16 @@ const config = {
             title: 'Docs',
             items: [
               {
+                label: 'Getting started',
+                to: '/docs/getting-started',
+              },
+              {
                 label: 'React Design System',
                 to: '/docs/react-design-system',
               },
               {
                 label: 'Glossary',
-                to: '/docs/improvements/glossary',
+                to: '/docs/glossary',
               },
               {
                 label: 'Community links',
