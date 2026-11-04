@@ -1,3 +1,7 @@
+---
+slug: /2022/09/12/cool-newsletters-for-developers-part-2
+---
+
 > **Legacy filename note:** This post's filename contains brackets and a space. Kept for URL continuity.
 
 --- 
