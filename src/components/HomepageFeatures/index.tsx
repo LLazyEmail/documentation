@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'React Design System',
-    to: '/docs/React-Design-System',
+    to: '/docs/react-design-system',
     description: (
       <>
         Components, typography, tables, and remix templates for HTML email.

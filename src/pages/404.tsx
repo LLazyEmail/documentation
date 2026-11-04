@@ -15,7 +15,7 @@ export default function NotFound(): JSX.Element {
             </p>
             <ul>
               <li>
-                <Link to="/docs/React-Design-System">React Design System</Link>
+                <Link to="/docs/react-design-system">React Design System</Link>
               </li>
               <li>
                 <Link to="/docs/improvements/glossary">Glossary</Link>

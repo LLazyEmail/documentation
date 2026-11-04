@@ -3,7 +3,7 @@ import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 const metrics = [
-  {value: '6+', label: 'Doc sections', to: '/docs/React-Design-System'},
+  {value: '6+', label: 'Doc sections', to: '/docs/react-design-system'},
   {value: '20+', label: 'Blog posts', to: '/blog'},
   {value: '1', label: 'Glossary', to: '/docs/improvements/glossary'},
   {

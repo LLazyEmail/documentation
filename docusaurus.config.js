@@ -54,6 +54,37 @@ const config = {
     ],
   ],
 
+  // Reorg (#342): client-side redirects for path renames. Entries added in later PRs.
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          // Populated by documentation reorganization PRs (see issue #342).
+          // PR 05: React-Design-System → react-design-system; \`to\` uses front-matter ids.
+          { from: '/docs/React-Design-System', to: '/docs/react-design-system' },
+          { from: '/docs/React-Design-System/React-Design-System', to: '/docs/react-design-system' },
+          { from: '/docs/React-Design-System/react-main', to: '/docs/react-design-system' },
+          { from: '/docs/React-Design-System/all-components', to: '/docs/react-design-system/all-components' },
+          { from: '/docs/React-Design-System/clone-template', to: '/docs/react-design-system/clone-template' },
+          { from: '/docs/React-Design-System/email-typography', to: '/docs/react-design-system/email-typography' },
+          { from: '/docs/React-Design-System/frameworks', to: '/docs/react-design-system/frameworks' },
+          { from: '/docs/React-Design-System/misc', to: '/docs/react-design-system/react-misc-module' },
+          { from: '/docs/React-Design-System/react-misc-module', to: '/docs/react-design-system/react-misc-module' },
+          { from: '/docs/React-Design-System/react-table', to: '/docs/react-design-system/react-table-module' },
+          { from: '/docs/React-Design-System/react-table-module', to: '/docs/react-design-system/react-table-module' },
+          { from: '/docs/React-Design-System/react-todo-tasks', to: '/docs/react-design-system/react-tasks' },
+          { from: '/docs/React-Design-System/react-tasks', to: '/docs/react-design-system/react-tasks' },
+          { from: '/docs/React-Design-System/remix-templates', to: '/docs/react-design-system/remix-templates' },
+          { from: '/docs/React-Design-System/template-repository', to: '/docs/react-design-system/react-template-module' },
+          { from: '/docs/React-Design-System/react-template-module', to: '/docs/react-design-system/react-template-module' },
+          { from: '/docs/React-Design-System/Table%20repository', to: '/docs/react-design-system/Table repository' },
+          { from: '/docs/React-Design-System/Table repository', to: '/docs/react-design-system/Table repository' },
+        ],
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -145,7 +176,7 @@ const config = {
             items: [
               {
                 label: 'React Design System',
-                to: '/docs/React-Design-System',
+                to: '/docs/react-design-system',
               },
               {
                 label: 'Glossary',
