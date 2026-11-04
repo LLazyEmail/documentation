@@ -9,3 +9,5 @@ Place superseded docs here instead of deleting them.
 - Keep frontmatter / a short note explaining why the page was archived.
 
 This folder starts empty of legacy pages; use it when restructuring.
+
+- \`tasks-template.md\` — former root issue-form draft (moved from \`tasks template.md\`).
