@@ -2,6 +2,8 @@
 id: project-diagram-packages
 title: Markdown-to-Email-Project-Diagram
 sidebar_label: Project Diagram
+description: Project packages for LLazyEmail.
+sidebar_position: 2
 ---
 :::note Legacy HTML comments
 HTML comments in this file were converted to MDX `{/* */}` comments so `future.v4` builds succeed. Content preserved.

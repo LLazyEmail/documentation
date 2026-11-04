@@ -1,3 +1,10 @@
+---
+title: Project diagram
+description: Project diagram for LLazyEmail.
+sidebar_label: Index
+sidebar_position: 1
+---
+
 ![First Newsletter Campaign](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/ClientCheckList-1.png)
 
 ![next campaigns](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/ClientCheckList-2.png)
