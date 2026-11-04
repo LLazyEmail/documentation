@@ -1,3 +1,7 @@
+---
+slug: /2022/08/23/tested-ways-to-increase-your-newsletter-subscribers
+---
+
 > **Legacy filename note:** This post's filename contains a space. Kept as-is to preserve URLs; prefer hyphenated names for new posts.
 
 
