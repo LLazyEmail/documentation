@@ -1,3 +1,9 @@
+---
+title: Todo Tasks
+description: Todo Tasks documentation notes.
+sidebar_label: Todo Tasks
+---
+
 ## Table of Contents
 
 - [Task 1: Add more messages here, and finally replace messages in our methods [#1393]](#task-1-add-more-messages-here-and-finally-replace-messages-in-our-methods-1393)

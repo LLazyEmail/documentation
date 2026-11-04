@@ -1,3 +1,9 @@
+---
+title: Old Stretch Goals
+description: Old Stretch Goals documentation notes.
+sidebar_label: Old Stretch Goals
+---
+
 :::note Legacy
 These stretch goals are kept for historical context. Prefer current trackers under [improvements](./improvements.md) and [future steps](./future-steps.md).
 :::

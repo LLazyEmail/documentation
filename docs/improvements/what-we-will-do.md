@@ -1,3 +1,9 @@
+---
+title: What We Will Do
+description: What We Will Do documentation notes.
+sidebar_label: What We Will Do
+---
+
 Вопрос:
 Что и какие условия за год Сергею
 
