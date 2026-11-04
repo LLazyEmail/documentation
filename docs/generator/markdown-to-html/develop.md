@@ -1,3 +1,9 @@
+---
+title: Develop
+description: Generator docs — Develop.
+sidebar_label: develop
+---
+
 ### callbacks-factory/adapter.js
 
 ```
