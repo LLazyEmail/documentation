@@ -2,6 +2,7 @@
 title: DevOps
 description: DevOps notes, pipeline tasks, and operational checklist for LLazyEmail.
 sidebar_label: DevOps
+slug: /devops
 ---
 
 # GitOps infrastructure implementation 
