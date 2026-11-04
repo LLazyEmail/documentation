@@ -1,3 +1,9 @@
+---
+title: Details
+description: Details documentation notes.
+sidebar_label: Details
+---
+
 
 ### Reason or Problem
 
