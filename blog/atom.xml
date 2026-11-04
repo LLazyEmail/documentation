@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://docs.llazyemail.com/blog</id>
     <title>LLazyEmail Documentation Blog</title>
-    <updated>2026-11-04T03:28:41.000Z</updated>
+    <updated>2026-11-04T03:29:33.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://docs.llazyemail.com/blog"/>
     <subtitle>LLazyEmail Documentation Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Articles Articles]]></title>
         <id>https://docs.llazyemail.com/blog/articles-archive</id>
         <link href="https://docs.llazyemail.com/blog/articles-archive"/>
-        <updated>2026-11-04T03:28:41.000Z</updated>
+        <updated>2026-11-04T03:29:33.000Z</updated>
         <summary type="html"><![CDATA[Arthur Tkachenko articles]]></summary>
         <content type="html"><![CDATA[<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="arthur-tkachenko-articles">Arthur Tkachenko articles<a href="https://docs.llazyemail.com/blog/articles-archive#arthur-tkachenko-articles" class="hash-link" aria-label="Direct link to Arthur Tkachenko articles" title="Direct link to Arthur Tkachenko articles" translate="no">​</a></h4>
 <ul>
@@ -716,9 +716,9 @@ sidebar_label: Newsletters for developers Part 2" translate="no">​</a></h2>
         <category label="Email" term="Email"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ Tested Ways to Increase Your Newsletter Subscribers]]></title>
-        <id>https://docs.llazyemail.com/blog/2022/08/23/ Tested Ways to Increase Your Newsletter Subscribers</id>
-        <link href="https://docs.llazyemail.com/blog/2022/08/23/ Tested Ways to Increase Your Newsletter Subscribers"/>
+        <title type="html"><![CDATA[tested-ways-to-increase-your-newsletter-subscribers]]></title>
+        <id>https://docs.llazyemail.com/blog/2022/08/23/tested-ways-to-increase-your-newsletter-subscribers</id>
+        <link href="https://docs.llazyemail.com/blog/2022/08/23/tested-ways-to-increase-your-newsletter-subscribers"/>
         <updated>2022-08-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Legacy filename note: This post's filename contains a space. Kept as-is to preserve URLs; prefer hyphenated names for new posts.]]></summary>
         <content type="html"><![CDATA[<blockquote>
