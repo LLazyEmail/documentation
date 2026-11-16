@@ -248,4 +248,15 @@ Modules for Markdown-to-Email project
 
 
 
+## Template packages (render, runtime, generate)
+
+The newer packages that turn email templates into HTML, published to GitHub
+Packages under `@llazyemail`:
+
+- **render-template**: [repo](https://github.com/LLazyEmail/render-template), [docs page](./generator/template-packages/render-template.md)
+- **template-runtime-display**: [repo](https://github.com/LLazyEmail/template-runtime-display), [docs page](./generator/template-packages/template-runtime-display.md)
+- **generate-template**: [repo](https://github.com/LLazyEmail/generate-template), [docs page](./generator/template-packages/generate-template.md)
+
+How they fit together: [Template packages overview](./generator/template-packages/index.md).
+
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
