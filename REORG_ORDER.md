@@ -1,5 +1,7 @@
 # REORG_ORDER — LLazyEmail/documentation
 
+> **Status 2026-11-16: completed, kept as history.** Of the 40 reorganization PRs linked below, 39 are merged and 1 is closed; none is open. Tracking issue #342 can be closed by the owner.
+
 Generated: **2026-11-03** (Europe/Kiev). Last status sync: **2026-11-04** (Europe/Kiev). Source of truth for the **documentation reorganization** draft PR track.
 
 Tracking issue: [#342 Documentation reorganization plan (40 PRs)](https://github.com/LLazyEmail/documentation/issues/342)
