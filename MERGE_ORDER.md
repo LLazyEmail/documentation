@@ -1,5 +1,9 @@
 # MERGE_ORDER — LLazyEmail/documentation
 
+> **Status 2026-11-16: completed, kept as history.** Every pull request linked below is now merged (36) or closed (45); none is open. This file is no longer a live checklist. For current work use the open PR list.
+>
+> The Renovate PRs it says to hold back are still open and all superseded by `main`: #198 and #215 (`@tsconfig/docusaurus`, replaced by `@docusaurus/tsconfig` 3.10.2), #200 and #209 (Docusaurus, now 3.10.2), #202 (`prism-react-renderer`, now ^2.3.1), #205 (`clsx`, now ^2.1.0), #208 (`@mdx-js/react`, now ^3.0.0), and #211 (`peaceiris/actions-gh-pages`, which this repo no longer calls directly; deploy goes through documentation-actions). All of them conflict with `main` and can be closed by the owner.
+
 Generated: **2026-10-30** (Europe/Kiev). Source of truth for merging the open draft polish PRs after conflict combining.
 
 Do **not** merge Renovate dependency bumps (#198–#218) until the site foundation below is in. Do **not** merge anything without reading the stacking notes.
