@@ -60,6 +60,19 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 > Legacy note: an old SES login URL previously listed here was removed from active docs guidance; do not commit credentials. See [SECURITY.md](./SECURITY.md).
 
+## CI / GitHub Actions
+
+All workflows live in [`.github/workflows/`](./.github/workflows). Three of them call shared reusable workflows from [documentation-actions](https://github.com/LLazyEmail/documentation-actions).
+
+| Workflow | File | Runs on | What it does |
+| --- | --- | --- | --- |
+| Test deployment | `test-deploy.yml` | PRs to `main` | `npm ci` and a full Docusaurus build on Node 22, so broken pages, links or MDX fail the PR before merge. |
+| Build images | `build-images.yml` | PRs, manual | Builds the site and checks that every image it references exists in the build output. |
+| Deploy to GitHub Pages | `deploy.yml` | Push to `main` | Builds the site and publishes `./build` to the `gh-pages` branch with the `docs.llazyemail.com` custom domain (CNAME). Manual `npm run deploy` (above) is only a fallback. |
+| CodeQL | `codeql.yml` | Push and PRs to `main`, plus weekly (Wednesday 03:17 UTC) | GitHub code scanning for JavaScript; findings show under Security → Code scanning. |
+
+There are no scheduled reports in this repo; the weekly link-check and open-PR reports run in the sister repositories below.
+
 ## Sister repositories
 
 - [Awesome Email Marketing](https://github.com/LLazyEmail/awesome-email-marketing)
