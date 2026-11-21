@@ -62,7 +62,7 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 ## CI / GitHub Actions
 
-All workflows live in [`.github/workflows/`](./.github/workflows). Three of them call shared reusable workflows from [documentation-actions](https://github.com/LLazyEmail/documentation-actions).
+All workflows live in [`.github/workflows/`](./.github/workflows). Three of them call shared reusable workflows from [documentation-actions](https://github.com/LLazyEmail/documentation-actions). Test deployment and build-images use the short aliases `reusable-test-deploy` and `reusable-image-check`; deploy already uses `reusable-pages-deploy`. Each alias accepts the same inputs as the long name, and the pin stays `@v2`.
 
 | Workflow | File | Runs on | What it does |
 | --- | --- | --- | --- |
