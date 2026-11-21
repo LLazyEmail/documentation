@@ -31,7 +31,7 @@ Requires **Node 22+** (see `.nvmrc` and `package.json` engines).
 | `blog/` | Article archive |
 | `src/` | Homepage, components, CSS |
 | `docusaurus.config.js` | Site configuration |
-| `.github/` | Templates; shared workflows via documentation-actions |
+| `.github/` | Templates; shared workflows via documentation-actions. `test-deploy.yml` and `build-images.yml` use the short aliases `reusable-test-deploy` and `reusable-image-check` (same inputs as the long names, pinned `@v2`). |
 
 ## Next
 
